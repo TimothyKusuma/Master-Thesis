@@ -15,10 +15,13 @@ const openai = new OpenAI({
   });
 
 const completion = await openai.chat.completions.create({
-    model: "gpt-3.5-turbo",
+    model: "gpt-4",
     messages: [
         {role: "user", content: "Hello, how are you?"}
     ]
 });
 
 console.log(completion.choices[0].message);
+
+//https://openai.com/pricing
+//gpt-3.5-turbo
