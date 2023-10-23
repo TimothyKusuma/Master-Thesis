@@ -1,0 +1,74 @@
+authors: ''
+constructs:
+  a: 'FRUGAL ECOSYSTEM of interest for this study (Resource Constraints + Digital Platform + Technology Business Incubator)'
+  b: 'FITIC'
+  c: 'Business Innovation Capability'
+  d: 'IT Innovation Capability'
+  e: 'Social Innovation Capability'
+  f: 'Firm Performance'
+  g: 'Economic/Financial Performance'
+  h: 'Social Performance'
+  i: 'Environmental Performance'
+figure: 'FileNameOfDiagram.png'
+hypotheses:
+  1:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: d
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: e
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: f
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+texts:
+  - 'FRUGAL ECOSYSTEM of interest for this study (Resource Constraints + Digital Platform + Technology Business Incubator)'
+year: ''
+id: ''
+name: ''
