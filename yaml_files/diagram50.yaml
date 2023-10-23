@@ -1,0 +1,62 @@
+authors: ''
+constructs:
+  a: 'Change Strategy •Reconfigure Existing Resources •Acquire and Reconfigure Resources •Acquire Resources Without Configuring •Business as Usual'
+  b: 'Knowledge Type •Explicit •Tacit'
+  c: 'Knowledge Management Strategy •Creation •Transfer •Protection'
+  d: 'Information Technology Application •Codify Knowledge •Create Networks'
+figure: 'diagram50.png'
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 'D1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: d
+    label: 'I2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: c
+    label: 'I3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: a
+    effect: c
+    label: 'I1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: c
+    label: 'D2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: c
+    effect: d
+    label: 'D3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+texts:
+  - 'D-Direct Relationship (solid line)'
+  - 'I-Indirect Relationship (dotted line)'
+id: ''
+name: ''
+year: ''
