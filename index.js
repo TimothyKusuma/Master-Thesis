@@ -11,7 +11,7 @@ const openai = new OpenAIApi(configuration);
 
 const openai = new OpenAI({
     organization: "org-vkVVSns03Fg7ueAEGNBoaXva",
-    apiKey: "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",
+    apiKey: "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",
   });
 
 const completion = await openai.chat.completions.create({
