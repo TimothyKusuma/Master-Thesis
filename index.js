@@ -1,17 +1,24 @@
-import { Configuration, OpenAIApi } from 'openai';
+import OpenAI from 'openai';
 
+/*
 const configuration = new Configuration({
     organization: "org-vkVVSns03Fg7ueAEGNBoaXva",
     apiKey: "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",
 });
 
 const openai = new OpenAIApi(configuration);
+*/
 
-const completion = await openai.createChatCompletion({
-    model: "gpt-4",
+const openai = new OpenAI({
+    organization: "org-vkVVSns03Fg7ueAEGNBoaXva",
+    apiKey: "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",
+  });
+
+const completion = await openai.chat.completions.create({
+    model: "gpt-3.5-turbo",
     messages: [
         {role: "user", content: "Hello, how are you?"}
     ]
 });
 
-console.log(completion.data.choices[0].message);
+console.log(completion.choices[0].message);
