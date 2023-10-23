@@ -1,0 +1,80 @@
+authors: ''
+constructs:
+a: Perceived ease of use
+b: Perceived usefulness
+c: Attitude towards website
+d: Future intention to visit
+figure: FileNameOfDiagram.png
+hypotheses:
+1:
+cause: a
+effect: c
+label: '0.22'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+2:
+cause: a
+effect: b
+label: '0.68'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+3:
+cause: a
+effect: b
+label: '0.69'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+4:
+cause: b
+effect: c
+label: '0.65'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+5:
+cause: b
+effect: c
+label: '0.77'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+6:
+cause: b
+effect: d
+label: '0.44'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+7:
+cause: c
+effect: d
+label: '0.42'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+8:
+cause: c
+effect: d
+label: '0.39'
+name: ''
+sign: ''
+significance: ''
+strength: ''
+id: ''
+name: ''
+texts:
+
+'R²=0.74/R²=0.75'
+'R²=0.68/R²=0.69'
+'R²=0.55/R²=0.57'
+year: ''

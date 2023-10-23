@@ -1,0 +1,74 @@
+authors: ''
+constructs:
+a: Business Innovation Capability
+b: IT Innovation Capability
+c: Social Innovation Capability
+d: FITIC
+e: Economic/Financial Performance
+f: Social Performance
+g: Environmental Performance
+h: Firm Performance
+figure: FileNameOfDiagram.png
+hypotheses:
+1:
+cause: a
+effect: d
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+2:
+cause: b
+effect: d
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+3:
+cause: c
+effect: d
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+4:
+cause: d
+effect: h
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+5:
+cause: h
+effect: e
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+6:
+cause: h
+effect: f
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+7:
+cause: h
+effect: g
+label: ''
+name: ''
+sign: ''
+significance: ''
+strength: ''
+id: ''
+name: ''
+texts:
+
+'FRUGAL ECOSYSTEM of interest for this study (Resource Constraints + Digital Platform + Technology Business Incubator)'
+year: ''
