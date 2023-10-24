@@ -1,0 +1,63 @@
+authors: ''
+constructs:
+  a: 'Use of Recommendation Agent'
+  b: 'Product Promotion Effectiveness R2=0.40'
+  c: 'Product Search Effectiveness R2=0.13'
+  d: 'Customer Satisfaction with Website R2=0.34'
+  e: 'Unplanned Purchase R2=0.11'
+figure: 'diagram3.png'
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: '0.49***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: '0.20***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: '0.59***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: c
+    effect: e
+    label: '0.26***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: c
+    effect: d
+    label: '0.22***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: e
+    label: '0.17**'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+texts:
+  - 'PE1 PE2 ... PE9'
+  - 'CS1 CS2 ... CS12'
+id: ''
+name: ''
+year: ''
