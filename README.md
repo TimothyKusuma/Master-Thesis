@@ -19,7 +19,7 @@ hypotheses:
   1:
     cause: a (source node of link)
     effect: b (target node of link)
-    label: '' 
+    label: H2 
     name: ''
     sign: ''
     significance: ''
