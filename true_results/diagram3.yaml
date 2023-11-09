@@ -1,0 +1,119 @@
+authors: ''
+constructs:
+  a: Use of Recommendation Agent
+  b: Product Promotion Effectiveness
+  c: Product Search Effectiveness
+  d: Customer Satisfaction with Website
+  e: PE1
+  f: PE2
+  g: PE9
+  h: Unplanned Purchase
+  i: CS1
+  j: CS2
+  k: CS12
+figure: diagram3.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.49***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: 0.20***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: 0.59***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: c
+    label: 0.22***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: b
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: d
+    effect: h
+    label: 0.17**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: d
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: d
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  11:
+    cause: d
+    effect: k
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  12:
+    cause: c
+    effect: h
+    label: 0.26***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- R2=0.40
+- R2=0.34
+- R2=0.13
+- R2=0.11
+year: 1000

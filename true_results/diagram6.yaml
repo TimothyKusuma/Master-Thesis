@@ -1,0 +1,73 @@
+authors: ''
+constructs:
+  a: Self identity
+  b: Attitude toward anonymity (0.19) b
+  c: Attitude toward social presence (0.33)
+  d: Satisfaction with the use of Avatar (0.43)
+  e: Tendency to social comparison
+  f: External subjective norm
+  g: Loyaltiy to the Community (0.84)
+figure: diagram6.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.33 (3.40)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: 0.48 (5.95)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: 0.42 (2.96)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: c
+    effect: d
+    label: 0.42 (2.96)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: d
+    label: 0.26 (2.49)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: d
+    label: 0.03 (0.19)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: d
+    effect: g
+    label: 0.91 (15.53)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- a Coefficiant of estimation and (t-value) --> Significant path b R2value of dependent
+  construct --> Insignificant path
+year: 1000

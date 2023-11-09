@@ -1,0 +1,61 @@
+authors: ''
+constructs:
+  a: Interface Usage
+  b: Task Performance
+  c: Feedback Presence
+  d: Interface Preference
+  e: Positive Feedback
+  f: Negative Feedback
+figure: diagram30.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 1
+  label: H2
+  moderator: c
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 2
+  label: H3a
+  moderator: e
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 2
+  label: H3b
+  moderator: f
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+texts:
+- H1
+year: 1000
