@@ -1,77 +1,77 @@
 authors: ''
 constructs:
-a: Involvement in Virtual Community
-b: Trust between Members
-c: Trust for Vendors
-d: Perceived Risks in Electronic Commerce
-e: Perceived Benefits in Virtual Community
-f: Participation in Electronic Commerce
+  a: Involvement in Virtual Community
+  b: Trust between Members
+  c: Trust for Vendors
+  d: Perceived Risks in Electronic Commerce
+  e: Perceived Benefits in Virtual Community
+  f: Participation in Electronic Commerce
 figure: diagram99.png
 hypotheses:
-1:
-cause: a
-effect: b
-label: H1
-name: ''
-sign: ''
-significance: ''
-strength: ''
-2:
-cause: a
-effect: c
-label: H2
-name: ''
-sign: ''
-significance: ''
-strength: ''
-3:
-cause: b
-effect: c
-label: H3
-name: ''
-sign: ''
-significance: ''
-strength: ''
-4:
-cause: b
-effect: d
-label: H4A
-name: ''
-sign: ''
-significance: ''
-strength: ''
-5:
-cause: c
-effect: d
-label: H4B
-name: ''
-sign: ''
-significance: ''
-strength: ''
-6:
-cause: a
-effect: e
-label: H6A, B, C
-name: ''
-sign: ''
-significance: ''
-strength: ''
-7:
-cause: e
-effect: f
-label: H7A, B, C
-name: ''
-sign: ''
-significance: ''
-strength: ''
-8:
-cause: d
-effect: f
-label: H5
-name: ''
-sign: ''
-significance: ''
-strength: ''
+  1:
+    cause: a
+    effect: b
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: c
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: d
+    label: H4A
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: c
+    effect: d
+    label: H4B
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: a
+    effect: e
+    label: H6A, B, C
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: e
+    effect: f
+    label: H7A, B, C
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: d
+    effect: f
+    label: H5
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
 id: ''
 name: ''
 texts: []
