@@ -1,11 +1,11 @@
 import os
 
 # Ensure the directory exists
-os.makedirs('chatGPT_results', exist_ok=True)
+os.makedirs('chatGPT_shrot', exist_ok=True)
 
 # Loop to create 100 YAML files
 for i in range(1, 101):
-    filename = f'chatGPT_results/diagram{i}.yaml'
+    filename = f'chatGPT_short/diagram{i}.yaml'
     
     # Check if file already exists
     if os.path.exists(filename):

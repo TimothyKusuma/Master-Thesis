@@ -1,0 +1,110 @@
+authors: ''
+constructs:
+  a: 'Heuristic Cues'
+  b: 'Systematic Cues'
+  c: 'cWoM Message Consistency'
+  d: 'cWoM Message Credibility'
+  e: 'eWoM Message Quality'
+  f: 'Source Trustworthiness'
+  g: 'Source Expertise'
+  h: 'eWoM Message Framing'
+  i: 'Source Social Connectedness'
+  j: 'Perceived Helpfulness of the eWoM Message'
+  k: 'eWoM Message Adoption'
+figure: FileNameOfDiagram.png
+hypotheses:
+  1:
+    cause: c
+    effect: d
+    label: 'H9'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: d
+    effect: e
+    label: 'H4'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: e
+    effect: j
+    label: 'H3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: f
+    label: 'H10'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: j
+    label: 'H5'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: i
+    effect: f
+    label: 'H8'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: g
+    effect: f
+    label: 'H7'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: h
+    effect: j
+    label: 'H6'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: j
+    effect: k
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: c
+    effect: e
+    label: 'H11'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  11:
+    cause: g
+    effect: h
+    label: 'H12'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - 'H2'
+  - 'H13'
+  - 'H12'
+year: ''

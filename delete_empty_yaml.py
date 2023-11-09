@@ -25,7 +25,7 @@ def delete_empty_files(directory, empty_files):
         print(f"Deleted empty file: {file}")
 
 def main():
-    directory = 'chatGPT_results'
+    directory = 'chatGPT_short'
     
     # Ensure the directory exists
     if not os.path.exists(directory):
