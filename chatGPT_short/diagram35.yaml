@@ -1,0 +1,65 @@
+authors: ''
+constructs:
+  a: 'Quality Signals'
+  b: 'Awareness Signals'
+  c: 'Content Variance'
+  d: 'Perceived Quality'
+  e: 'Prominence'
+  f: 'Financial Performance'
+figure: FileNameOfDiagram.png
+hypotheses:
+  1:
+    cause: a
+    effect: d
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: e
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: e
+    label: 'H3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: 'H4'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: d
+    effect: f
+    label: 'H5'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: e
+    effect: f
+    label: 'H6'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - 'Antecedents (resource signals and certifications)'
+  - 'Reputational dimensions'
+  - 'Consequences'
+year: ''
