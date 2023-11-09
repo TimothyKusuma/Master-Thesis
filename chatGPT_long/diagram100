@@ -1,0 +1,96 @@
+authors: ''
+constructs:
+  a: 'Mission information'
+  b: 'Financial information'
+  c: 'Donation information'
+  d: 'Navigability'
+  e: 'Download speed'
+  f: 'Visual aesthetics'
+  g: 'Security'
+  h: 'Information content quality'
+  i: 'System quality'
+  j: 'Perceived reputation'
+figure: FileNameOfDiagram.png
+hypotheses:
+  1:
+    cause: a
+    effect: h
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: h
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: h
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: f
+    effect: i
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: g
+    effect: i
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: i
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: e
+    effect: i
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: h
+    effect: i
+    label: 'H3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: i
+    effect: j
+    label: 'H4'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - 'H1: Collective halo (Attribute-to-Attribute)'
+  - 'H2: Aesthetics halo (Attribute-to-Dimension)'
+  - 'H3: Reciprocal-quality halo (Dimension-to-Dimension)'
+  - 'H4: Quality halo (Dimension-to-Dimension)'
+  - 'Control Variables'
+  - 'Gender, Age, Frequency of visit of charity websites, Prior donation behaviors, Involvement with child relief issues, Attitude toward online donation, Web skills, Importance of charity’s reputation'
+year: ''
