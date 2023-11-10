@@ -1,0 +1,65 @@
+authors: ''
+constructs:
+  a: FITIC
+  b: Firm Performance
+  c: Business Innovation
+  d: IT Innovation Capability
+  e: Social Innovation Capability
+  f: Economic/Financial Performance
+  g: Environmental Performance
+figure: diagram1.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: a
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: a
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: a
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- FRUGAL ECOSYSTEM or interest for this study (Resource Contraints + Digital Platform
+  + Technology Business Incubator)
+year: 1000
