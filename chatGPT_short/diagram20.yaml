@@ -1,0 +1,27 @@
+authors: ''
+constructs:
+  a: Critical Factors
+  b: ISI Decisions
+  c: ISI Outcomes
+figure: diagram20.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''
