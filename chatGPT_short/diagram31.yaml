@@ -1,0 +1,64 @@
+authors: ''
+constructs:
+  a: PEMs
+  b: Trade-off difficulty
+  c: Perceived control
+  d: Perceived accuracy
+  e: Intentions to use RAs
+  f: Perceived effort
+figure: diagram31.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: '0.125'
+    name: ''
+    sign: '+'
+    significance: 'a'
+    strength: '(t=0.827)'
+  2:
+    cause: b
+    effect: c
+    label: '-0.545'
+    name: ''
+    sign: '-'
+    significance: '***'
+    strength: '(t=-5.391)'
+  3:
+    cause: c
+    effect: d
+    label: '0.679'
+    name: ''
+    sign: '+'
+    significance: '***'
+    strength: '(t=8.733)'
+  4:
+    cause: d
+    effect: e
+    label: '0.267'
+    name: ''
+    sign: '+'
+    significance: 'b'
+    strength: '(t=1.477)'
+  5:
+    cause: f
+    effect: d
+    label: '-0.538'
+    name: ''
+    sign: '-'
+    significance: '**'
+    strength: '(t=-3.014)'
+  6:
+    cause: f
+    effect: e
+    label: '-0.313'
+    name: ''
+    sign: '-'
+    significance: '*'
+    strength: '(t=-1.872)'
+id: ''
+name: ''
+texts:
+  - 'a A 95% chance detecting medium effect (0.30) for one-tailed testing at the 0.05 significance level.'
+  - 'b A 57% chance of detecting medium effect (0.30) for one-tailed testing at the 0.05 significance level. The low chance of 57% suggests that power may be the reason for the nonsignificant result.'
+year: ''
