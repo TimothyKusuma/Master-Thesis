@@ -1,0 +1,80 @@
+authors: ''
+constructs:
+  a: Information Intensity
+  b: IT Capability - IT Business Partner- ships - External IT Linkages - Business
+    Process Integration - IT Management - IT Infrastructure
+  c: Enviromental Uncertainty
+  d: International Marketing Orientation
+  e: International Entrepreneurial Orientation
+  f: Organisational Learing Orientation
+  g: International Per- formance of Born- Global Firms - Strategic Perfor- mance -
+    Financial Perfor- mance
+  h: Enviromental Factors
+  i: Firm Factors
+figure: diagram15.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: .250***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: .150**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: .008ns
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: .283***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: b
+    label: .294***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: g
+    label: .284***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: a
+  parent: h
+- child: c
+  parent: h
+- child: d
+  parent: i
+- child: e
+  parent: i
+- child: f
+  parent: i
+texts:
+- R2=.389
+- R2=.081
+year: 1000

@@ -1,0 +1,35 @@
+authors: ''
+constructs:
+  a: EDUCATION
+  b: PERFORMANCE
+  c: COMPLEMENTARITY EDUCATION*R&D
+  d: CONTROL VARIABLES Structural, Managerial, Governance
+figure: diagram17.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

@@ -1,0 +1,82 @@
+authors: ''
+constructs:
+  a: Organization Tope mangement support Organization size Technical and Financial
+    Feasibility
+  b: RosettaNet adoption
+  c: Innovation Compatibility Complexity Trialability Relative Advantage Observability
+  d: Enviroment Competitive pressure Expectations of market trends
+  e: IOR Partner power Relationship commitment Trust in Trading partner Transaction
+    frequency
+  f: Government Promotion and support Infrastructure
+  g: Information sharing culture Willigness to share information Information distribution
+  h: Operational performance
+  i: SCM related operational performance
+figure: diagram13.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: b
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: b
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

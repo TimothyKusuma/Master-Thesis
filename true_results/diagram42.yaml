@@ -1,0 +1,68 @@
+authors: ''
+constructs:
+  a: Tool
+  b: Non-Task-Focused Discussion
+  c: Time Pressure
+  d: Tool x Time Pressure Interaction
+  e: Decision Quality
+  f: Perceived Effectiveness
+  g: Enjoyment
+figure: diagram42.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.540*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: '-0.119'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: H1, H3 -0.576*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: H2a -0328*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: b
+    label: H2b 0.199
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: b
+    label: H2c 0.480**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- r2 = 0.188
+- r2 = 0.108
+- r2 = 0.040
+- r2 = 0.231
+- '*p < .05 ** p < .01 ***p < .001'
+year: 1000

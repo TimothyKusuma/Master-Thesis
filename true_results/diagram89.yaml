@@ -1,0 +1,107 @@
+authors: ''
+constructs:
+  a: cse1
+  b: Composite CSE (weighted sum/index)
+  c: cse2
+  d: cse3
+  e: cse4
+  f: cse5
+  g: cse6
+  h: CSE
+  i: zeta
+  j: cse-A
+  k: cse-B
+  l: cse-C
+figure: diagram89.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: (non-causal)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: (non-causal)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: (non-causal)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: (non-causal)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: b
+    label: (non-causal)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: b
+    label: (non-causal)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: h
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: i
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: h
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: h
+    effect: k
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  11:
+    cause: h
+    effect: l
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

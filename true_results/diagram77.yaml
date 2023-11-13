@@ -1,0 +1,31 @@
+authors: ''
+constructs:
+  a: Gender Age Year EU citizenship
+  b: Motives to adopt e-residency
+  c: EDGI level Income level
+figure: diagram77.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- Individual level
+- Country level
+- Independent variable
+- Dependent variable
+year: 1000

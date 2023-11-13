@@ -1,0 +1,86 @@
+authors: ''
+constructs:
+  a: User-generated feedback
+  b: Quality Signals
+  c: Awareness Signals
+  d: Content Variance
+  e: Perceived Quality
+  f: Prominence
+  g: Financial Perfomance
+  h: ''
+figure: diagram35.png
+hypotheses:
+  1:
+    cause: b
+    effect: e
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: f
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: f
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: f
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: g
+    label: H5
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: g
+    label: H6
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: e
+  parent: a
+- child: f
+  parent: a
+- child: g
+  parent: a
+- child: h
+  parent: a
+- child: e
+  parent: h
+- child: f
+  parent: h
+texts:
+- Antecedents (resource signals and certifications)
+- Reputational dimensions
+- Consequenses
+year: 1000

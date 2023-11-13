@@ -1,0 +1,52 @@
+authors: ''
+constructs:
+  a: Past Behavior with Target IT
+  b: Cognition*
+  c: Intention to Use Target IT
+  d: Use of Target IT
+figure: diagram60.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 2
+  label: ''
+  moderator: a
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 3
+  label: ''
+  moderator: b
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+texts:
+- '* Includded here are cognitions otehr than intention'
+year: 1000

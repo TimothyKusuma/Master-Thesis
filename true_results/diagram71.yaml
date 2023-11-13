@@ -1,0 +1,43 @@
+authors: ''
+constructs:
+  a: ''
+  b: Human Resources - Human Development Index
+  c: Industrial Infrastructure - Labor Force by Occupation (Agriculture, Industry,
+    Service)
+  d: Globalization - International Trade Volume
+  e: ''
+  f: Socio-economic Changes - Economic Freedom - Unemployment
+  g: Socio-political Changes - Wealth Inequality - Political Freedom
+  h: ICT Spending per GDP
+figure: diagram71.png
+hypotheses:
+  1:
+    cause: h
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: f
+  parent: e
+- child: g
+  parent: e
+year: 1000

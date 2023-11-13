@@ -1,0 +1,41 @@
+authors: ''
+constructs:
+  a: Firms' Highlighting Practice (Study 1, 2 & 3)
+  b: Consumption Likelihood
+  c: Contextual Factor
+  d: Information Context Variance in Other Reviews (Study 2)
+  e: Source Characteristics Firm's Reputation (Study 3)
+  f: Message Characteristics Review Extremity (Study 2 & 3)
+figure: diagram95.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 1
+  label: ''
+  moderator: f
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 1
+  label: ''
+  moderator: c
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+subsets:
+- child: d
+  parent: c
+- child: e
+  parent: c
+year: 1000

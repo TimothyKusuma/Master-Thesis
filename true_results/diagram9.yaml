@@ -1,0 +1,39 @@
+authors: ''
+constructs:
+  a: Blog Use
+  b: Social Connections
+  c: Reciprocity
+  d: Trust
+figure: diagram9.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.459*** T=10.692
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: 0.517*** T=12.096
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: 0.203*** T=3.285
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- R2=0.210
+- R2=0.267
+- R2=0.041
+year: 1000

@@ -1,0 +1,53 @@
+authors: ''
+constructs:
+  a: Opportunities for growth Manager practices
+  b: Perceived organizational support
+  c: Information about the organization Competitive pay
+  d: Perceived external prestige
+  e: Affective commitment High sacrifice Low alternatives
+  f: Turnover intentions
+figure: diagram46.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

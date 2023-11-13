@@ -1,0 +1,34 @@
+authors: ''
+constructs:
+  a: Organizational Factors & Portal Interface Characteristics
+  b: Intentions to Use a Community Municipal Portal
+  c: End-User Demographics & Perceptions
+figure: diagram83.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

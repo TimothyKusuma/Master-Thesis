@@ -1,0 +1,35 @@
+authors: ''
+constructs:
+  a: Organizational Dimension High-Level Manager Support
+  b: Adoption of PACS
+  c: Enviromental Dimension Governmental Policies
+  d: Characteristics of PACS Benefits of PACS
+figure: diagram33.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

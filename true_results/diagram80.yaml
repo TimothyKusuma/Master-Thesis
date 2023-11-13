@@ -1,0 +1,34 @@
+authors: ''
+constructs:
+  a: Task-Oriented Communication During Action Episodes
+  b: 'Performance: - Effectiveness - Efficiency'
+  c: 'Pacing: - Earliness - Steadiness'
+  d: Technology-Enabled Communication Awareness
+figure: diagram80.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 1
+  label: ''
+  moderator: c
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 1
+  label: ''
+  moderator: d
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+year: 1000

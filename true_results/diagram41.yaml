@@ -1,0 +1,52 @@
+authors: ''
+constructs:
+  a: Extroversion
+  b: Conditional value (R2=0.070)
+  c: Disclosure Value (R2=0.500)
+  d: Disclosure Intention (R2=0.481)
+  e: Perceived Privacy Risk
+figure: diagram41.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 'H5: 0.147**'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: 'H1: 0.582***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: 'H2: 0.694***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: 'H3: -0.220***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: c
+    label: 'H4: -0.294***'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

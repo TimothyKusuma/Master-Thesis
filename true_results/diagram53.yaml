@@ -1,0 +1,68 @@
+authors: ''
+constructs:
+  a: Anthro- pomorphism
+  b: Homophily
+  c: Trust
+  d: Common Ground
+  e: Purchase Intention
+figure: diagram53.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: c
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: d
+    effect: c
+    label: H5
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: e
+    label: H6
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: c
+    effect: e
+    label: H7
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

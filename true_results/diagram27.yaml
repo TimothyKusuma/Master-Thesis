@@ -1,0 +1,102 @@
+authors: ''
+constructs:
+  a: ''
+  b: Action readiness
+  c: Affect
+  d: Arousal
+  e: Event
+  f: Appraisal
+  g: Behaviors
+  h: Regulation processes
+figure: diagram27.png
+hypotheses:
+  1:
+    cause: e
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: f
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: f
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: f
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: c
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: d
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: f
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: g
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: h
+    effect: a
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+year: 1000

@@ -1,0 +1,80 @@
+authors: ''
+constructs:
+  a: Emotional Distress
+  b: Situational Temptation
+  c: Positive Social Situations
+  d: Perceived Pros
+  e: Decisional Balance
+  f: Perceived Cons
+  g: Willingness to disclose
+  h: Privacy Self- efficacy
+  i: Actual self- disclosure in
+figure: diagram63.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: H2a (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: H2b (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: e
+    label: H1a (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: f
+    effect: e
+    label: H1b (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: g
+    label: H2 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: h
+    effect: g
+    label: H3 (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: e
+    effect: g
+    label: H1 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: g
+    effect: i
+    label: H5 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

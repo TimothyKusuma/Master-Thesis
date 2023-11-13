@@ -1,0 +1,60 @@
+authors: ''
+constructs:
+  a: Ability to Adopt - M-health Self-Efficacy - Information Seeking Experience
+  b: M-health Adoption Intention
+  c: Risk beliefs
+  d: Health Information Privacy Concers
+  e: Trust beliefs
+figure: diagram12.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: (.360)*** (.328)***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: (.082)n.s.
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: (.331)***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: (.161)*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: d
+    label: (.057)n.s.
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: b
+    label: (-.227)**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

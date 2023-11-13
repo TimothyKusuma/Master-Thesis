@@ -1,0 +1,59 @@
+authors: ''
+constructs:
+  a: OPCS
+  b: Price Perception
+  c: Offline-online Differences
+  d: Website Design Knowledge
+  e: Offline Belief
+  f: Store Evalutation
+  g: Quality-Price Weighting
+figure: diagram10.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: Study 1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 1
+  label: Study 2
+  moderator: c
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 1
+  label: Study 3
+  moderator: d
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 1
+  label: Study 4
+  moderator: e
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+- hypothesis: 2
+  label: Study 5
+  moderator: g
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+year: 1000

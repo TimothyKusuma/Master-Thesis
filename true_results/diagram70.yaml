@@ -1,0 +1,95 @@
+authors: ''
+constructs:
+  a: Constructs
+  b: Experimential Cues
+  c: Object Signification
+  d: Photo Evaluation
+  e: Methods
+  f: Crowdsourcing Mturk
+  g: Deep Learning Caffe
+  h: Deep Learning Caffe
+  i: Measures
+  j: Arousal (A) Authenticity (C) Utility (C)
+  k: Nature-scene- related versus Objects-related
+  l: Memorability
+  m: Photo Elements
+figure: diagram70.png
+hypotheses:
+  1:
+    cause: b
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: f
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: g
+    effect: m
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: m
+    effect: k
+    label: Human Raters
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: h
+    effect: l
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: f
+  parent: e
+- child: g
+  parent: e
+- child: h
+  parent: e
+- child: j
+  parent: i
+- child: k
+  parent: i
+- child: l
+  parent: i
+year: 1000

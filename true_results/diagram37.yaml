@@ -1,0 +1,60 @@
+authors: ''
+constructs:
+  a: Explicit information expectations
+  b: Likelihood of receiving investment
+  c: Implicit information expectations
+  d: Implicit information expectations on competing sites
+  e: Likelihood of repaying investment
+figure: diagram37.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: '-'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: a
+    effect: e
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: c
+    effect: e
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: e
+    label: '-'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

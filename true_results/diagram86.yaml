@@ -1,0 +1,106 @@
+authors: ''
+constructs:
+  a: Prior literature
+  b: The role of online reviews on consumer purchase
+  c: Review manupulation
+  d: Impact on consumer satisfaction
+  e: Our study
+  f: Business owners' responses
+  g: Impact on focal business performance
+  h: Spillover effect of owner responses on nearby businesses
+  i: When to respond to consumer reviews
+  j: Demand-side
+  k: Supply-side
+  l: Online product reviews
+figure: diagram86.png
+hypotheses:
+  1:
+    cause: j
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: k
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: k
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: f
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: f
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: l
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: l
+    effect: k
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: f
+  parent: e
+- child: g
+  parent: e
+- child: h
+  parent: e
+- child: i
+  parent: e
+year: 1000

@@ -1,0 +1,54 @@
+authors: ''
+constructs:
+  a: Human Images
+  b: Image Appeal R2 = 0.03
+  c: Trust R2 = 0.193
+  d: Perceived Social Presence R2 = 0.05
+figure: diagram73.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.175 (t = 2.323*)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: a
+    effect: d
+    label: 0.127 (t = 2.156*)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: c
+    label: 0.353 (t = 5.482***)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: d
+    effect: c
+    label: 0.156 (t = 2.266*)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- '*p-value < 0.05'
+- '***p-value < 0.001'
+year: 1000

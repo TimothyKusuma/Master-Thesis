@@ -1,0 +1,79 @@
+authors: ''
+constructs:
+  a: Control variables
+  b: Age
+  c: Gender
+  d: IT work experience
+  e: Evaluability Bias
+  f: Perceived Attractiveness of a Software Product
+  g: Fairness Effect
+  h: Perceived Attractiveness of a Financial Reward
+  i: Escalation of Commitment to a Software Product Developement Project
+figure: diagram72.png
+hypotheses:
+  1:
+    cause: e
+    effect: f
+    label: H1a
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: g
+    effect: h
+    label: H2a
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: f
+    effect: i
+    label: H1b
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: h
+    effect: i
+    label: H2b
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: c
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: d
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+year: 1000

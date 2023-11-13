@@ -1,0 +1,89 @@
+authors: ''
+constructs:
+  a: TPB
+  b: Attitude towards Information Sharing
+  c: Mobile Privacy Protection Self-Efficacy
+  d: Mobile Information Protection Intention
+  e: Mobile Information Protection (Behavior)
+  f: Mobile Protection Settings Awareness
+  g: Mobile Privacy Concern
+  h: Prior Invasion Experience
+  i: Trust of Mobile Platform
+figure: diagram52.png
+hypotheses:
+  1:
+    cause: f
+    effect: g
+    label: H7
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: h
+    effect: g
+    label: H8
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: g
+    effect: b
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: i
+    effect: g
+    label: H6
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: i
+    effect: b
+    label: H5
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: d
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: c
+    effect: d
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: d
+    effect: e
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: e
+  parent: a
+year: 1000

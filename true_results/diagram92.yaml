@@ -1,0 +1,77 @@
+authors: ''
+constructs:
+  a: Risk (Risk Exposure)
+  b: Fit
+  c: Risk Responses with Mitigation Effects
+  d: Residual Risk
+  e: Project Perfomance
+  f: Applying formal risk managment practices
+figure: diagram92.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: R4 (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: e
+    label: R2 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: a
+    effect: e
+    label: R1 (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: c
+    effect: e
+    label: R3 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: f
+    effect: e
+    label: R6 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: d
+    effect: e
+    label: R5 (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

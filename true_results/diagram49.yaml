@@ -1,0 +1,84 @@
+authors: ''
+constructs:
+  a: IS_Integration
+  b: Organizational_Absortive_ Capacity
+  c: Application_Integration
+  d: Data_Integration
+  e: Competitive_Advantage
+  f: Training_Orientation
+  g: Change_Orientation
+  h: Process_Orientation
+  i: Flexibility_Orientation
+figure: diagram49.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.174**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: 0.89**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: a
+    effect: d
+    label: 0.76**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: e
+    label: 0.410**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: f
+    label: 0.60***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: g
+    label: 0.72***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: b
+    effect: h
+    label: 0.78***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: b
+    effect: i
+    label: 0.68***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- H2 (+)
+- H1 (+)
+- '* p<0.05, **p<0.001, ***p<0.001'
+year: 1000

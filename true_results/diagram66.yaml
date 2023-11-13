@@ -1,0 +1,58 @@
+authors: ''
+constructs:
+  a: Infrastructure Human Resource Globalization
+  b: ICT Investment
+  c: Socioeconomic Changes
+  d: Economic Freedom
+  e: Unemployment
+  f: Sociopolitical Change
+  g: Wealth Inequality
+  h: Democratization
+figure: diagram66.png
+hypotheses:
+  1:
+    cause: a
+    effect: d
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: e
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: a
+    effect: g
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: a
+    effect: h
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: d
+  parent: c
+- child: e
+  parent: c
+- child: g
+  parent: f
+- child: h
+  parent: f
+year: 1000

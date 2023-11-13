@@ -1,0 +1,167 @@
+authors: ''
+constructs:
+  a: Theory of Planned Behavior (TPB)
+  b: Subjective Norms
+  c: Attitude
+  d: Perceived Behavioral Control
+  e: Behavioral Intent
+  f: Protection Motivation Theory (PMT)
+  g: Perceived Threat Vulnerability
+  h: Perceived Threat Severity
+  i: Responce Efficacy
+  j: Self-Efficacy
+  k: Behavioral Intent
+  l: Deterrence Theory (DT)
+  m: Perceived Sanction Probability
+  n: Perceived Sanction Severity
+  o: Behavioral Intent
+  p: Rational Choice Theory (RCT)
+  q: Perceived Benefits of Compliance
+  r: Perceived Costs of Compliance
+  s: Perceived Costs of Non-Compliance
+  t: Attitude
+  u: Behavioral Intent
+figure: diagram85.png
+hypotheses:
+  1:
+    cause: b
+    effect: e
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: e
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: e
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: g
+    effect: k
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: h
+    effect: k
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: i
+    effect: k
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: j
+    effect: k
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: m
+    effect: o
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: n
+    effect: o
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: q
+    effect: t
+    label: +
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  11:
+    cause: r
+    effect: t
+    label: (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  12:
+    cause: s
+    effect: t
+    label: (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  13:
+    cause: t
+    effect: u
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: e
+  parent: a
+- child: g
+  parent: f
+- child: h
+  parent: f
+- child: i
+  parent: f
+- child: j
+  parent: f
+- child: k
+  parent: f
+- child: m
+  parent: l
+- child: n
+  parent: l
+- child: o
+  parent: l
+- child: q
+  parent: p
+- child: r
+  parent: p
+- child: s
+  parent: p
+- child: t
+  parent: p
+- child: u
+  parent: p
+year: 1000

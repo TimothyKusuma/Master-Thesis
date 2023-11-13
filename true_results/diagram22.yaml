@@ -1,0 +1,26 @@
+authors: ''
+constructs:
+  a: Medication k
+  b: Medication j
+  c: Medication i
+figure: diagram22.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

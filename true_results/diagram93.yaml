@@ -1,0 +1,61 @@
+authors: ''
+constructs:
+  a: IT Capability
+  b: Proactive Corporate Environmental Strategy (R2 = 0.123)
+  c: Firm Performance (R2 = 0.262)
+  d: Firm Size
+  e: Talent Development Practices Implementation
+  f: Quality Management Practices Implementation
+  g: Control Variables
+figure: diagram93.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.351***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: 0.284**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: c
+    label: 0.407****
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: c
+    label: '-0.203'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: c
+    label: 0.193*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+subsets:
+- child: d
+  parent: g
+- child: e
+  parent: g
+- child: f
+  parent: g
+year: 1000

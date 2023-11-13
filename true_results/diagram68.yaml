@@ -1,0 +1,51 @@
+authors: ''
+constructs:
+  a: Conceptual Model Combination
+  b: Combined Ontological Completeness
+  c: Ontological Overlap
+  d: Conceptual Modeling Context
+  e: Environment uncertainty
+  f: Task nature
+  g: Prior domain knowledge
+  h: Interpretation
+  i: Selection of model combination
+  j: Developement of domain understanding
+  k: Perceived usefulness
+figure: diagram68.png
+hypotheses:
+  1:
+    cause: a
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 1
+  label: ''
+  moderator: d
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: e
+  parent: d
+- child: f
+  parent: d
+- child: g
+  parent: d
+- child: i
+  parent: h
+- child: j
+  parent: h
+- child: k
+  parent: h
+year: 1000

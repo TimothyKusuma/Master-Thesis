@@ -1,0 +1,155 @@
+authors: ''
+constructs:
+  a: Control variables
+  b: Ordinary comments
+  c: Positive ratings
+  d: Negative ratings
+  e: Trust propensity
+  f: Past experience
+  g: Product price
+  h: Auction bids
+  i: Outstanding benevolence text comments
+  j: Benevolence
+  k: Abysmal benevolence text comments
+  l: Outstanding credibility text comments
+  m: Credibility
+  n: Abysmal credibility text comments
+  o: Price Premiums
+  p: ''
+  q: Feedback text comments
+figure: diagram48.png
+hypotheses:
+  1:
+    cause: i
+    effect: j
+    label: H3a (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: k
+    effect: j
+    label: H3b (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: l
+    effect: m
+    label: H4a (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: n
+    effect: m
+    label: H4b (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: j
+    effect: o
+    label: H1 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: m
+    effect: o
+    label: H2 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: b
+    effect: p
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: c
+    effect: p
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: d
+    effect: p
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: e
+    effect: p
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  11:
+    cause: f
+    effect: p
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  12:
+    cause: h
+    effect: o
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 6
+  label: ''
+  moderator: g
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+subsets:
+- child: b
+  parent: a
+- child: c
+  parent: a
+- child: d
+  parent: a
+- child: e
+  parent: a
+- child: f
+  parent: a
+- child: g
+  parent: a
+- child: h
+  parent: a
+- child: i
+  parent: q
+- child: k
+  parent: q
+- child: l
+  parent: q
+- child: n
+  parent: q
+- child: j
+  parent: p
+- child: m
+  parent: p
+year: 1000

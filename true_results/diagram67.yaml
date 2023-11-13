@@ -1,0 +1,83 @@
+authors: ''
+constructs:
+  a: Social Norm
+  b: Attitude toward LB-SNA
+  c: Perceived Risk
+  d: Perceived Benefit
+  e: Opinion Leadership
+  f: Location Disclosure on LB-SNA
+  g: Incentives
+  h: Facilitating Conditions
+  i: Privacy Concern
+figure: diagram67.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: .138**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: -.371***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: .495***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: .082*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: f
+    label: .43***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: f
+    label: .112*
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: h
+    effect: f
+    label: .019NS
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+moderations:
+- hypothesis: 5
+  label: ''
+  moderator: i
+  name: ''
+  sign: ''
+  significance: ''
+  strength: ''
+name: ''
+texts:
+- 58%
+- 25%
+year: 1000

@@ -1,0 +1,67 @@
+authors: ''
+constructs:
+  a: Age
+  b: Habit
+  c: Time Spent Per-day (Past Behavior)
+  d: Comprehensiveness of Usage (Past Behavior)
+  e: Perceived Enjoyment
+  f: High Engagement (Non-pathological)
+  g: Addiction (Pathological)
+figure: diagram59.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: -0.13 *
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: (H1) 0.16 **
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: (H2) 0.16 ***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: (H3) 0.64 ***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: f
+    label: (H5) 0.51 ***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: g
+    label: (H4) 0.50 ***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- '* p<0.05 ** p<0.01 *** p<0.001'
+- SMC = 0.64
+- SMC = 0.25
+- SMC = 0.26
+year: 1000

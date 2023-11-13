@@ -1,0 +1,53 @@
+authors: ''
+constructs:
+  a: Personalized directories
+  b: Transactive memory
+  c: Codified directories
+  d: Pragmatic boundary
+  e: Semantic boundary
+  f: Syntactic boundary
+figure: diagram58.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: H4.2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: H4.1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: d
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: e
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: f
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

@@ -1,0 +1,62 @@
+authors: ''
+constructs:
+  a: Perceived Distributive Injustice
+  b: Negative Affective Flow R2 = .476
+  c: Perceived Interpersonal Injustice
+  d: Perceived Informational Injustice
+  e: Negative Affective Absorption
+  f: Information Security Policy Compliance R2 = .079
+  g: Attitude Toward Specific Information Security Policy
+figure: diagram75.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: '.002'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: b
+    label: < .000
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: b
+    label: '.026'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: b
+    label: '.016'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: f
+    label: n.s.
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: f
+    label: < .000
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000
