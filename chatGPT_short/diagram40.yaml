@@ -1,0 +1,56 @@
+authors: ''
+constructs:
+  a: IT activity asset specificity
+  b: IT department size
+  c: IT internal organization (profit center)
+  d: Quasi-Outsourcing
+  e: Institutional environment (Germany)
+  f: Sector IT intensity
+  g: Internal Determinants
+  h: External Determinants
+figure: diagram40.png
+hypotheses:
+  1:
+    cause: a
+    effect: d
+    label: H1 (3.69**)
+    name: ''
+    sign: ''
+    significance: '**'
+    strength: ''
+  2:
+    cause: b
+    effect: d
+    label: H2 (0.95*)
+    name: ''
+    sign: ''
+    significance: '*'
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: H3 (3.19**)
+    name: ''
+    sign: ''
+    significance: '**'
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: H4 (2.88**)
+    name: ''
+    sign: ''
+    significance: '**'
+    strength: ''
+  5:
+    cause: d
+    effect: f
+    label: H5 (0.04)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: ''
+year: ''
