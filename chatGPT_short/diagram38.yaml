@@ -1,0 +1,58 @@
+authors: ''
+constructs:
+  a: IT Application Infrastructure
+  b: IT Resource Usage
+  c: Business Process
+  d: Process Capabilities
+  e: Consistency
+  f: Leverage
+  g: Relevance
+  h: Project Performance
+  i: Change in
+  j: Project Cycle Time
+  k: Project Cost
+  l: Project Quality
+  m: Project Controls
+  n: Autonomy
+  o: Propensity to use IT
+  p: Team Size
+  q: Co-location
+  r: Project Duration
+  s: Organizational Controls
+  t: Number of Concurrent Projects Managed
+  u: Firm Size
+  v: Organizational IQ
+figure: diagram38.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: m
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: s
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''

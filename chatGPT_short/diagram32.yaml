@@ -1,0 +1,52 @@
+authors: ''
+constructs:
+  a: CSPC
+  b: CTC
+  c: CIC
+  d: BusFlex
+  e: FirmPerf
+figure: diagram32.png
+hypotheses:
+  1:
+    cause: b
+    effect: a
+    label: 0.33 ***
+    name: ''
+    sign: positive
+    significance: '***'
+    strength: '0.33'
+  2:
+    cause: c
+    effect: a
+    label: 0.56 ***
+    name: ''
+    sign: positive
+    significance: '***'
+    strength: '0.56'
+  3:
+    cause: b
+    effect: c
+    label: 0.81 ***
+    name: ''
+    sign: positive
+    significance: '***'
+    strength: '0.81'
+  4:
+    cause: a
+    effect: d
+    label: 0.55 ***
+    name: ''
+    sign: positive
+    significance: '***'
+    strength: '0.55'
+  5:
+    cause: c
+    effect: d
+    label: 0.37 ***
+    name: ''
+    sign: positive
+    significance: '***'
+    strength: '0.37'
+  6:
+    cause: d
+    effect: e

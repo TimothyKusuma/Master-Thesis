@@ -1,0 +1,48 @@
+authors: ''
+constructs:
+  a: Control Variables
+  b: IT Security Performance Measurement of The US Federal Agencies
+  c: PD (+)
+  d: Power Distance
+  e: 'H5: IT Budget'
+  f: 'Know-How: Experience: H1: Job Tenure H2: Managerial Skills'
+  g: 'Know-What: Education: H3: Level of Education'
+  h: "Know \u201CHow to be\u201D: H4: Effective Leadership"
+  i: '1: Agency Controls - Prior Perf. (+) - Agency Size (-) 2. FISMA Controls (+)'
+figure: diagram34.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: d

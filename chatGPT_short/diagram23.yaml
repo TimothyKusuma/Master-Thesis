@@ -1,0 +1,24 @@
+authors: ''
+constructs:
+  a: Product-based personalization
+  b: Consumer characteristics
+  c: Prior purchase
+  d: Probability of opening an e-mail
+  e: Control variable
+  f: Frequency of e-mails
+  g: Prior response
+figure: diagram23.png
+hypotheses:
+  1:
+    cause: a
+    effect: d
+    label: H1 (+ve)
+    name: ''
+    sign: +
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- Note. +ve, positive.
+year: ''

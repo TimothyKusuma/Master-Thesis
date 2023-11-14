@@ -1,0 +1,52 @@
+authors: ''
+constructs:
+  a: Risk beliefs
+  b: Trust beliefs
+  c: Ability to Adopt
+  d: Health Information Privacy Concerns
+  e: M-health Adoption Intention
+figure: diagram12.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: (.331)***
+    name: ''
+    sign: +
+    significance: '***'
+    strength: '0.331'
+  2:
+    cause: b
+    effect: c
+    label: (.057)n.s.
+    name: ''
+    sign: +
+    significance: n.s.
+    strength: '0.057'
+  3:
+    cause: a
+    effect: d
+    label: (.328)***
+    name: ''
+    sign: +
+    significance: '***'
+    strength: '0.328'
+  4:
+    cause: b
+    effect: d
+    label: (.082)n.s.
+    name: ''
+    sign: +
+    significance: n.s.
+    strength: '0.082'
+  5:
+    cause: d
+    effect: e
+    label: (-.227)**
+    name: ''
+    sign: '-'
+    significance: '**'
+    strength: '0.227'
+  6:
+    cause: c
+    effect: null

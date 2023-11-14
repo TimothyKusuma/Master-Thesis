@@ -1,0 +1,60 @@
+authors: ''
+constructs:
+  a: Information Intensity
+  b: Environmental Uncertainty
+  c: IT Capability
+  d: International Performance of Born-Global Firms
+  e: International Marketing Orientation
+  f: International Entrepreneurial Orientation
+  g: Organisational Learning Orientation
+figure: diagram15.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: .250***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: .150**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: e
+    effect: c
+    label: .283***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: f
+    effect: c
+    label: .294***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: g
+    effect: c
+    label: .008ns
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: c
+    effect: d
+    label: .284***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: null

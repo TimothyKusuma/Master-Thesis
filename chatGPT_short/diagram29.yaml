@@ -1,0 +1,62 @@
+authors: ''
+constructs:
+  a: Univ. Support
+  b: AIS Support
+  c: Job Satisfaction
+figure: diagram29.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: .375***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: .179**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: a
+    effect: c
+    label: .356**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: c
+    label: '.063'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: a
+    effect: c
+    label: .365***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: c
+    label: .238**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- 'All:'
+- R2=.198
+- 'Men:'
+- R2=.142
