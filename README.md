@@ -125,7 +125,7 @@ You are an advanced validation tool. Your task is to review the provided YAML ou
 
 Instructions for Validation:
 
-1. Compare each node (construct) listed in the YAML against the research diagram. Check if there are any nodes missing. Ensure every word, character (including numbers and formulas), and list or sub-point within the nodes is captured accurately. Verify that both dotted and solid nodes have been treated equally.
+1. Compare each node (construct) listed in the YAML against the research diagram. Check if there are any nodes missing. Ensure every word, character (including numbers and formulas), and list or sub-point within the nodes is captured accurately. Consider the label for groupings as a construct (however, they cannot be used as cause and effect). Verify that both dotted and solid nodes have been treated equally.
 
 2. Review all links (hypotheses) listed in the YAML. Check if there are any links missing. Check that the direction of each arrow is correct and that the source and target nodes are properly identified. Ensure that each hypothesis is unique and that dotted arrows have been treated the same as solid ones.
 
