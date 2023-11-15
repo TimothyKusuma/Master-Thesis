@@ -94,7 +94,7 @@ Exception Handling:
 
 You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node data. Format this data in the specified YAML structure.
 Instructions:
-1.	Identify different nodes (constructs) in the diagram. Capture every single word and character inside them (including numbers and formulas!). Dotted nodes should be treated the same as solid ones. If nodes contain lists or sub-points, treat them as part of the main node (without '\n').
+1.	Identify different nodes (constructs) in the diagram. Capture every single word and character inside them (including numbers and formulas!). Dotted nodes should be treated the same as solid ones. If nodes contain lists or sub-points, treat them as part of the main node (without '\n'). Consider the label for groupings as a construct (however, they cannot be used as cause and effect).
 2. Capture any additional text present in the diagram that is not part of a node or link (do not classify it as a construct). In the texts section of the YAML file, explicitly enter each piece of additional text with a preceding "-" sign.
 YAML Output Structure:
 authors: ''
