@@ -1,5 +1,9 @@
 # Master-Thesis
 
+ToDos:
+-prompt with JSON format (without YAML)
+-synonyms with semantic similarity
+
 **Version 1**
 
 You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node, link, and label data. Format this data in the specified YAML structure.
