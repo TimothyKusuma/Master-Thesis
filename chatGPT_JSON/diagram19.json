@@ -1,0 +1,63 @@
+{
+  "constructs": [
+    {
+      "name": "Online Anonymity"
+    },
+    {
+      "name": "Embodied Group Identity"
+    },
+    {
+      "name": "Public Self-Awareness"
+    },
+    {
+      "name": "Private Self-Awareness"
+    },
+    {
+      "name": "Group Norm Conformity"
+    },
+    {
+      "name": "Argument Quality"
+    },
+    {
+      "name": "Control Variables Motivation Community Formal Control Community Tenure Gender Age"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Online Anonymity",
+      "target": "Embodied Group Identity",
+      "label": "H1"
+    },
+    {
+      "source": "Online Anonymity",
+      "target": "Public Self-Awareness",
+      "label": "H2"
+    },
+    {
+      "source": "Online Anonymity",
+      "target": "Private Self-Awareness",
+      "label": "H3"
+    },
+    {
+      "source": "Embodied Group Identity",
+      "target": "Group Norm Conformity",
+      "label": "H4"
+    },
+    {
+      "source": "Public Self-Awareness",
+      "target": "Group Norm Conformity",
+      "label": "H5"
+    },
+    {
+      "source": "Group Norm Conformity",
+      "target": "Argument Quality",
+      "label": "H6"
+    },
+    {
+      "source": "Private Self-Awareness",
+      "target": "Argument Quality",
+      "label": "H7"
+    }
+  ],
+  "texts": []
+}
