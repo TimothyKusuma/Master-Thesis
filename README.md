@@ -8,7 +8,7 @@ ToDos:
 
 You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node, link, and label data. Format this data in the specified YAML structure.
 Instructions:
-1.	Identify different nodes (constructs) in the diagram. Capture every single word and characters inside them (**including numbers and formulas**). Dotted nodes should be treated the same as solid ones. If nodes contain lists or sub-points, treat them as part of the main node (without '\n').
+1.	Identify different nodes (constructs) in the diagram. Capture every single word and characters inside them (**including numbers and formulas**). Dotted nodes should be treated the same as solid ones. If nodes contain lists or sub-points, treat them as part of the main node (without '\n'). 
 2. Determine the links (hypotheses) connecting these nodes, noting the direction of each arrow and therefore determining the source and target nodes. The same hypotheses cannot be used more than once. Dotted arrows should be treated the same as solid arrows. 
 3. Capture and label each link (if available). This label should be placed under the "label" field in the YAML structure.
 4. Capture any additional text present in the diagram that is not part of a node or link (do not classify it as a construct). In the texts section of the YAML file, explicitly enter each piece of additional text with a preceding "-" sign.
@@ -60,7 +60,7 @@ Instructions:
 
 Exception Handling:
 
-1. If there are grouped nodes (multiple nodes inside a distinct shape), treat each internal node as a standalone construct. However, the overarching label for this group should be recorded as a separate construct. Such overarching labels should not be used as cause or effect.
+1. If there are grouped nodes (multiple nodes inside a distinct shape), treat each internal node as a standalone construct. However, the label for this group should be recorded as a separate construct. Such overarching labels should not be used as cause or effect.
 
 2. Always leave the "name", "sign", "significance", and "strength" fields (found under hypotheses) empty.
 
