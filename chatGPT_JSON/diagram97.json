@@ -1,0 +1,58 @@
+{
+    "constructs": [
+      {
+        "name": "Entrepreneurial intensity"
+      },
+      {
+        "name": "Knowledge Integration Capability"
+      },
+      {
+        "name": "Firm Performance"
+      },
+      {
+        "name": "Learning Culture"
+      },
+      {
+        "name": "Knowledge Process Capability"
+      },
+      {
+        "name": "IT Capability"
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Entrepreneurial intensity",
+        "target": "Knowledge Integration Capability",
+        "label": "0.673***"
+      },
+      {
+        "source": "Learning Culture",
+        "target": "Knowledge Integration Capability",
+        "label": "0.652***"
+      },
+      {
+        "source": "Knowledge Integration Capability",
+        "target": "Firm Performance",
+        "label": "0.586***"
+      },
+      {
+        "source": "Knowledge Integration Capability",
+        "target": "Knowledge Process Capability",
+        "label": "0.860***"
+      },
+      {
+        "source": "Knowledge Process Capability",
+        "target": "IT Capability",
+        "label": "0.765***"
+      },
+      {
+        "source": "IT Capability",
+        "target": "Firm Performance",
+        "label": "ns"
+      }
+    ],
+    "texts": [
+      "- ** p<0.01, *** p<0.001, ns: not significant"
+    ]
+  }
+  
