@@ -1,0 +1,116 @@
+{
+    "constructs": [
+      {
+        "name": "Dimensions of IT Mindfulness",
+        "content": "Alertness to Distinction, Awareness of Multiple Perspectives, Openness to Novelty, Orientation to the Present"
+      },
+      {
+        "name": "IT Mindfulness",
+        "content": ""
+      },
+      {
+        "name": "Post-Adoptive System Use",
+        "content": "Continuance Intention, Deep Structure Usage, Trying to Innovate"
+      },
+      {
+        "name": "Controls",
+        "content": "Perceived Ease of Use, Perceived Usefulness, Spreadsheet Self-efficacy"
+      },
+      {
+        "name": "Alertness to Distinction",
+        "content": ""
+      },
+      {
+        "name": "Awareness of Multiple Perspectives",
+        "content": ""
+      },
+      {
+        "name": "Openness to Novelty",
+        "content": ""
+      },
+      {
+        "name": "Orientation to the Present",
+        "content": ""
+      },
+      {
+        "name": "Continuance Intention",
+        "content": ""
+      },
+      {
+        "name": "Deep Structure Usage",
+        "content": ""
+      },
+      {
+        "name": "Trying to Innovate",
+        "content": ""
+      },
+      {
+        "name": "Perceived Ease of Use",
+        "content": ""
+      },
+      {
+        "name": "Perceived Usefulness",
+        "content": ""
+      },
+      {
+        "name": "Spreadsheet Self-efficacy",
+        "content": ""
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Alertness to Distinction",
+        "target": "IT Mindfulness",
+        "label": ""
+      },
+      {
+        "source": "Awareness of Multiple Perspectives",
+        "target": "IT Mindfulness",
+        "label": ""
+      },
+      {
+        "source": "Openness to Novelty",
+        "target": "IT Mindfulness",
+        "label": ""
+      },
+      {
+        "source": "Orientation to the Present",
+        "target": "IT Mindfulness",
+        "label": ""
+      },
+      {
+        "source": "IT Mindfulness",
+        "target": "Continuance Intention",
+        "label": ""
+      },
+      {
+        "source": "IT Mindfulness",
+        "target": "Deep Structure Usage",
+        "label": ""
+      },
+      {
+        "source": "IT Mindfulness",
+        "target": "Trying to Innovate",
+        "label": ""
+      },
+      {
+        "source": "Continuance Intention",
+        "target": "Perceived Ease of Use",
+        "label": ""
+      },
+      {
+        "source": "Deep Structure Usage",
+        "target": "Perceived Usefulness",
+        "label": ""
+      },
+      {
+        "source": "Trying to Innovate",
+        "target": "Spreadsheet Self-efficacy",
+        "label": ""
+      }
+    ],
+    "texts": [
+      "- Figure 3. IT Mindfulness Research Model"
+    ]
+  }
+  

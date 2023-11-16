@@ -1,0 +1,81 @@
+{
+    "constructs": [
+      {
+        "name": "FRUGAL ECOSYSTEM",
+        "content": "Resource Constraints + Digital Platform + Technology Business Incubator"
+      },
+      {
+        "name": "FITIC",
+        "content": ""
+      },
+      {
+        "name": "Business Innovation Capability",
+        "content": ""
+      },
+      {
+        "name": "IT Innovation Capability",
+        "content": ""
+      },
+      {
+        "name": "Social Innovation Capability",
+        "content": ""
+      },
+      {
+        "name": "Firm Performance",
+        "content": ""
+      },
+      {
+        "name": "Economic/Financial Performance",
+        "content": ""
+      },
+      {
+        "name": "Social Performance",
+        "content": ""
+      },
+      {
+        "name": "Environmental Performance",
+        "content": ""
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Business Innovation Capability",
+        "target": "FITIC",
+        "label": ""
+      },
+      {
+        "source": "IT Innovation Capability",
+        "target": "FITIC",
+        "label": ""
+      },
+      {
+        "source": "Social Innovation Capability",
+        "target": "FITIC",
+        "label": ""
+      },
+      {
+        "source": "FITIC",
+        "target": "Firm Performance",
+        "label": ""
+      },
+      {
+        "source": "Firm Performance",
+        "target": "Economic/Financial Performance",
+        "label": ""
+      },
+      {
+        "source": "Firm Performance",
+        "target": "Social Performance",
+        "label": ""
+      },
+      {
+        "source": "Firm Performance",
+        "target": "Environmental Performance",
+        "label": ""
+      }
+    ],
+    "texts": [
+      "- FRUGAL ECOSYSTEM of interest for this study"
+    ]
+  }
+  
