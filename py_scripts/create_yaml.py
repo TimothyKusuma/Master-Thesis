@@ -1,7 +1,8 @@
+"""
 import os
 
 # Ensure the directory exists
-os.makedirs('chatGPT_shrot', exist_ok=True)
+os.makedirs('chatGPT_short', exist_ok=True)
 
 # Loop to create 100 YAML files
 for i in range(1, 101):
@@ -18,3 +19,4 @@ for i in range(1, 101):
     print(f"Created {filename}")
 
 print("Process completed.")
+"""

@@ -18,7 +18,7 @@ def check_yaml_files(directory):
     return empty_files, non_empty_files
 
 def main():
-    directory = 'chatGPT_results'
+    directory = 'chatGPT_short'
     
     # Ensure the directory exists
     if not os.path.exists(directory):

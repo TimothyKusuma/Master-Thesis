@@ -1,0 +1,140 @@
+{
+    "nodes": [
+      {
+        "name": "Organization",
+        "contents": [
+          "Top management support",
+          "Organization size",
+          "Technical and Financial Feasibility"
+        ]
+      },
+      {
+        "name": "Innovation",
+        "contents": [
+          "Compatibility",
+          "Complexity",
+          "Trialability",
+          "Relative Advantage",
+          "Observability"
+        ]
+      },
+      {
+        "name": "Environment",
+        "contents": [
+          "Competitive pressure",
+          "Expectations of market trends"
+        ]
+      },
+      {
+        "name": "IOR",
+        "contents": [
+          "Partner power",
+          "Relationship commitment",
+          "Trust in Trading partner",
+          "Transaction frequency"
+        ]
+      },
+      {
+        "name": "Government",
+        "contents": [
+          "Promotion and support",
+          "Infrastructure"
+        ]
+      },
+      {
+        "name": "Information sharing culture",
+        "contents": [
+          "Willingness to share information",
+          "Information distribution"
+        ]
+      },
+      {
+        "name": "RosettaNet adoption",
+        "contents": []
+      },
+      {
+        "name": "Operational performance",
+        "contents": []
+      },
+      {
+        "name": "SCM related operational performance",
+        "contents": []
+      }
+    ],
+    "hypotheses": [
+      {
+        "cause": "Organization",
+        "effect": "RosettaNet adoption",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "Innovation",
+        "effect": "RosettaNet adoption",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "Environment",
+        "effect": "RosettaNet adoption",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "IOR",
+        "effect": "RosettaNet adoption",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "Government",
+        "effect": "RosettaNet adoption",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "Information sharing culture",
+        "effect": "RosettaNet adoption",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "RosettaNet adoption",
+        "effect": "Operational performance",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      },
+      {
+        "cause": "RosettaNet adoption",
+        "effect": "SCM related operational performance",
+        "label": "",
+        "name": "",
+        "sign": "",
+        "significance": "",
+        "strength": ""
+      }
+    ],
+    "additional_texts": []
+  }
+  
