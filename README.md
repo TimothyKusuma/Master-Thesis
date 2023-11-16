@@ -44,9 +44,9 @@ Exception Handling:
 If specific data isn't available, leave the respective fields empty.
 
 
-**Version 2**
+**Version 2 (without YAML)**
 
-You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node, link, and label data. Format this data in the specified YAML structure.
+You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node, link, and label data. Output this data as a JSON.
 
 Instructions:
 
@@ -57,30 +57,6 @@ Instructions:
 3. Link Labeling: Capture and label each link based on the visible text or number. This label should be placed under the "label" field in the YAML structure.
 
 4. Additional Texts: Record any other text present in the diagram that isn't part of a node or link. In the texts section of the YAML file, list each piece of additional text, prefixed by a "-" sign.
-
-authors: ''
-constructs:
-  a: NodeLabel1
-  b: NodeLabel2
-  ... [and so on for all nodes]
-figure: FileNameOfDiagram.png
-hypotheses:
-  1:
-    cause: a (source node of link)
-    effect: b (target node of link)
-    label: '' 
-    name: ''
-    sign: ''
-    significance: ''
-    strength: ''
-  ... [and so on for all links]
-id: ''
-name: ''
-texts:
-  - ‘AdditionalText1’
-  - ‘AdditionalText2’
-  ... [and so on for all additional texts, each prefixed by '- ']
-year: ''
 
 Exception Handling:
 
