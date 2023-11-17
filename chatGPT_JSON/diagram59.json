@@ -1,0 +1,66 @@
+{
+    "constructs": [
+      {
+        "name": "Age"
+      },
+      {
+        "name": "Time Spent Per-day (Past Behavior)"
+      },
+      {
+        "name": "Comprehensiveness of Usage (Past Behavior)"
+      },
+      {
+        "name": "Perceived Enjoyment"
+      },
+      {
+        "name": "Habit"
+      },
+      {
+        "name": "Addiction (Pathological)"
+      },
+      {
+        "name": "High Engagement (Non-pathological)"
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Age",
+        "target": "Habit",
+        "label": "-0.13"
+      },
+      {
+        "source": "Time Spent Per-day (Past Behavior)",
+        "target": "Habit",
+        "label": "0.16*"
+      },
+      {
+        "source": "Comprehensiveness of Usage (Past Behavior)",
+        "target": "Habit",
+        "label": "0.16***"
+      },
+      {
+        "source": "Perceived Enjoyment",
+        "target": "Habit",
+        "label": "0.64**"
+      },
+      {
+        "source": "Habit",
+        "target": "Addiction (Pathological)",
+        "label": "0.50***"
+      },
+      {
+        "source": "Habit",
+        "target": "High Engagement (Non-pathological)",
+        "label": "0.51***"
+      }
+    ],
+    "texts": [
+      "- * p < 0.05",
+      "- ** p < 0.01",
+      "- *** p < 0.001",
+      "- SMC = 0.64",
+      "- SMC = 0.25",
+      "- SMC = 0.26"
+    ]
+  }
+  

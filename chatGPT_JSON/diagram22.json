@@ -1,0 +1,26 @@
+{
+    "constructs": [
+      {
+        "name": "Medication i"
+      },
+      {
+        "name": "Medication j"
+      },
+      {
+        "name": "Medication k"
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Medication j",
+        "target": "Medication i",
+        "label": ""
+      },
+      {
+        "source": "Medication k",
+        "target": "Medication j",
+        "label": ""
+      }
+    ],
+    "texts": []
+  }

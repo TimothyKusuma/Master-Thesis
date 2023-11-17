@@ -1,0 +1,61 @@
+{
+    "constructs": [
+      {
+        "name": "Perceived Distributive Injustice"
+      },
+      {
+        "name": "Perceived Interpersonal Injustice"
+      },
+      {
+        "name": "Perceived Informational Injustice"
+      },
+      {
+        "name": "Negative Affective Absorption"
+      },
+      {
+        "name": "Negative Affective Flow R2 = .476"
+      },
+      {
+        "name": "Attitude Toward Specific Information Security Policy"
+      },
+      {
+        "name": "Information Security Policy Compliance R2 = .079"
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Perceived Distributive Injustice",
+        "target": "Negative Affective Absorption",
+        "label": ".172\n.002"
+      },
+      {
+        "source": "Perceived Interpersonal Injustice",
+        "target": "Negative Affective Absorption",
+        "label": ".388\n< .000"
+      },
+      {
+        "source": "Perceived Informational Injustice",
+        "target": "Negative Affective Absorption",
+        "label": ".100\n.026"
+      },
+      {
+        "source": "Negative Affective Absorption",
+        "target": "Negative Affective Flow R2 = .476",
+        "label": ".116\n.016"
+      },
+      {
+        "source": "Negative Affective Flow R2 = .476",
+        "target": "Attitude Toward Specific Information Security Policy",
+        "label": "-.057\nn.s."
+      },
+      {
+        "source": "Attitude Toward Specific Information Security Policy",
+        "target": "Information Security Policy Compliance R2 = .079",
+        "label": ".102\n< .000"
+      }
+    ],
+    "texts": [
+      "- n.s."
+    ]
+  }
+  
