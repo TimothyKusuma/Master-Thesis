@@ -1,0 +1,65 @@
+authors: ''
+constructs:
+  a: E-Business Value
+  b: Impact on Commerce
+  c: Sales increased
+  d: Sales area widened
+  e: Customer service improved
+  f: International sales increased
+  g: Impact on Internal Efficiency
+  h: Internal processes more efficient
+  i: Staff productivity increased
+  j: Impact on Coordination
+  k: Transaction costs with business partners decreased
+  l: Coordination with business partners or suppliers improved
+figure: diagram26.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+  3:
+    cause: b
+    effect: d
+    label: ''
+  4:
+    cause: b
+    effect: e
+    label: ''
+  5:
+    cause: b
+    effect: f
+    label: ''
+  6:
+    cause: a
+    effect: g
+    label: ''
+  7:
+    cause: g
+    effect: h
+    label: ''
+  8:
+    cause: g
+    effect: i
+    label: ''
+  9:
+    cause: a
+    effect: j
+    label: ''
+  10:
+    cause: j
+    effect: k
+    label: ''
+  11:
+    cause: j
+    effect: l
+    label: ''
+id: ''
+name: ''
+texts:
+  - ''
+year: ''
