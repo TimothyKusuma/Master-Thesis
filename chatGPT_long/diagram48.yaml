@@ -1,0 +1,74 @@
+authors: ''
+constructs:
+  a: 'Outstanding benevolence text comments'
+  b: 'Abysmal benevolence text comments'
+  c: 'Outstanding credibility text comments'
+  d: 'Abysmal credibility text comments'
+  e: 'Benevolence'
+  f: 'Credibility'
+  g: 'Price premiums'
+  h: 'Feedback text comments'
+  i: 'Ordinary comments'
+  j: 'Positive ratings'
+  k: 'Negative ratings'
+  l: 'Trust propensity'
+  m: 'Past experience'
+  n: 'Product price'
+  o: 'Auction bids'
+figure: FileNameOfDiagram.png
+hypotheses:
+  1:
+    cause: a
+    effect: e
+    label: 'H3a (+)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: e
+    label: 'H3b (-)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: f
+    label: 'H4a (+)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: f
+    label: 'H4b (-)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: g
+    label: 'H1 (+)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: g
+    label: 'H2 (+)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - 'Hypothesized effects'
+  - 'Control effects'
+  - 'Control variables'
+year: ''
