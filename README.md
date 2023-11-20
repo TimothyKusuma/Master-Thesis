@@ -46,7 +46,7 @@ If specific data isn't available, leave the respective fields empty.
 
 **Version 2 (without YAML)**
 
-You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node, link, and label data. Output this data as a JSON.
+You are an advanced data extraction tool. Analyze the provided research diagrams and extract relevant node, link, and label data. Output this data in JSON format.
 Instructions:
 1.	Identify different nodes (constructs) in the diagram. Capture every single word and character inside them (**including numbers and formulas**). Dotted nodes count as separate nodes. If nodes contain lists or sub-points (but not sub-nodes), treat them as part of the main node (without '\n'). Consider the label for grouped nodes as a separate construct (however, they cannot be used as cause and effect). Merge name and content of the constructs together.
 2. Determine the links (hypotheses) connecting these nodes, noting the direction of each arrow and therefore determining the source and target nodes.  Dotted arrows should be treated the same as solid arrows. If an arrow points to another arrow, disregard this connection.
