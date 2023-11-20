@@ -15,7 +15,7 @@ constructs:
   m: 'Past experience'
   n: 'Product price'
   o: 'Auction bids'
-figure: FileNameOfDiagram.png
+figure: diagram48.png
 hypotheses:
   1:
     cause: a
