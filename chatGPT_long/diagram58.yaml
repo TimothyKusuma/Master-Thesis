@@ -6,7 +6,7 @@ constructs:
   d: 'Codified directories'
   e: 'Syntactic boundary'
   f: 'Semantic boundary'
-figure: diagram58.yaml
+figure: diagram58.png
 hypotheses:
   1:
     cause: a
