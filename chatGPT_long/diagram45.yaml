@@ -1,0 +1,36 @@
+authors: ''
+constructs:
+  a: 'Team Dispersion'
+  b: 'Team Performance'
+  c: 'Intra-team Procedural Justice Climate'
+figure: FileNameOfDiagram.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - ''
+year: ''
