@@ -9,7 +9,7 @@ constructs:
   g: RosettaNet adoption
   h: Operational performance
   i: SCM related operational performance
-figure: FileNameOfDiagram.png
+figure: diagram13.png
 hypotheses:
   1:
     cause: a
