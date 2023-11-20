@@ -1,0 +1,32 @@
+{
+  "constructs": [
+    {"name": "Horizontal and vertical boundaries"},
+    {"name": "Information processing needs"},
+    {"name": "Information processing capacity"},
+    {"name": "IT capabilities"},
+    {"name": "Fit"},
+    {"name": "Performance"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Horizontal and vertical boundaries",
+      "target": "Information processing needs"
+    },
+    {
+      "source": "Information processing needs",
+      "target": "Fit"
+    },
+    {
+      "source": "Information processing capacity",
+      "target": "Fit"
+    },
+    {
+      "source": "IT capabilities",
+      "target": "Information processing capacity"
+    },
+    {
+      "source": "Fit",
+      "target": "Performance"
+    }
+  ]
+}
