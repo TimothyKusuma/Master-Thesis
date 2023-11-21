@@ -1,0 +1,71 @@
+authors: ''
+constructs:
+  a: 'Tool'
+  b: 'Time Pressure'
+  c: 'Tool x Time Pressure Interaction'
+  d: 'Non-Task-Focused Discussion'
+  e: 'Decision Quality'
+  f: 'Perceived Effectiveness'
+  g: 'Enjoyment'
+figure: diagram42.png
+hypotheses:
+  1:
+    cause: a
+    effect: d
+    label: '0.540*'
+    name: ''
+    sign: '+'
+    significance: '< .05'
+    strength: ''
+  2:
+    cause: b
+    effect: d
+    label: '-0.119'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: '-0.576*'
+    name: ''
+    sign: '-'
+    significance: '< .05'
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: 'H2a'
+    name: ''
+    sign: '-'
+    significance: ''
+    strength: ''
+  5:
+    cause: d
+    effect: f
+    label: 'H2b'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: g
+    label: 'H2c'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - '*p < .05'
+  - '**p < .01'
+  - '***p < .001'
+  - 'ns = not significant'
+  - 'r² = 0.188'
+  - 'r² = 0.108'
+  - 'r² = 0.040'
+  - 'r² = 0.231'
+year: ''
