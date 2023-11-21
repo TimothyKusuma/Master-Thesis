@@ -1,0 +1,37 @@
+authors: ''
+constructs:
+  a: 'Past Behavior with Target IT'
+  b: 'Cognitions*'
+  c: 'Intention to Use Target IT'
+  d: 'Use of Target IT'
+figure: diagram60.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+  - '*Included here are cognitions other than intention'
+year: ''
