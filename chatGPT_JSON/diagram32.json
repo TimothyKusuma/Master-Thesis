@@ -1,0 +1,19 @@
+{
+  "constructs": [
+    {"name": "CTC"},
+    {"name": "CSPC"},
+    {"name": "CIC"},
+    {"name": "BusFlex"},
+    {"name": "FirmPerf"}
+  ],
+  "hypotheses": [
+    {"source": "CTC", "target": "CSPC", "label": "0.33***"},
+    {"source": "CSPC", "target": "BusFlex", "label": "0.55***"},
+    {"source": "CTC", "target": "CIC", "label": "0.81***"},
+    {"source": "CIC", "target": "BusFlex", "label": "0.37***"},
+    {"source": "BusFlex", "target": "FirmPerf", "label": "0.39***"},
+    {"source": "CIC", "target": "FirmPerf", "label": "0.31***"},
+    {"source": "CSPC", "target": "FirmPerf", "label": "0.15*"}
+  ],
+  "additional_texts": []
+}
