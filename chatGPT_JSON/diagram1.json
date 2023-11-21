@@ -1,40 +1,31 @@
 {
     "constructs": [
       {
-        "name": "FRUGAL ECOSYSTEM",
-        "content": "Resource Constraints + Digital Platform + Technology Business Incubator"
+        "name": "FRUGAL ECOSYSTEM Resource Constraints + Digital Platform + Technology Business Incubator", 
       },
       {
         "name": "FITIC",
-        "content": ""
       },
       {
         "name": "Business Innovation Capability",
-        "content": ""
       },
       {
         "name": "IT Innovation Capability",
-        "content": ""
       },
       {
         "name": "Social Innovation Capability",
-        "content": ""
       },
       {
         "name": "Firm Performance",
-        "content": ""
       },
       {
         "name": "Economic/Financial Performance",
-        "content": ""
       },
       {
         "name": "Social Performance",
-        "content": ""
       },
       {
         "name": "Environmental Performance",
-        "content": ""
       }
     ],
     "hypotheses": [
