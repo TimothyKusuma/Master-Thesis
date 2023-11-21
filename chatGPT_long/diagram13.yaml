@@ -15,34 +15,58 @@ hypotheses:
     cause: a
     effect: g
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   2:
     cause: b
     effect: g
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   3:
     cause: c
     effect: g
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   4:
     cause: d
     effect: g
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   5:
     cause: e
     effect: g
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   6:
     cause: f
     effect: g
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   7:
     cause: g
     effect: h
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
   8:
     cause: g
     effect: i
     label: ''
+    sign: ''
+    significance: ''
+    strength: ''
 id: ''
 name: ''
 texts:

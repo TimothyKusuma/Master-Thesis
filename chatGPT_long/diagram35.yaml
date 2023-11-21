@@ -6,7 +6,7 @@ constructs:
   d: 'Perceived Quality'
   e: 'Prominence'
   f: 'Financial Performance'
-figure: 'FileNameOfDiagram.png'
+figure: diagram35.png
 hypotheses:
   1:
     cause: a

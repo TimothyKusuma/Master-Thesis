@@ -10,7 +10,7 @@ constructs:
   h: 'Information content quality'
   i: 'System quality'
   j: 'Perceived reputation'
-figure: FileNameOfDiagram.png
+figure: diagram100.png
 hypotheses:
   1:
     cause: a

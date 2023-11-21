@@ -18,46 +18,90 @@ hypotheses:
     cause: a
     effect: b
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   2:
     cause: b
     effect: c
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   3:
     cause: b
     effect: d
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   4:
     cause: b
     effect: e
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   5:
     cause: b
     effect: f
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   6:
     cause: a
     effect: g
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   7:
     cause: g
     effect: h
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   8:
     cause: g
     effect: i
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   9:
     cause: a
     effect: j
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   10:
     cause: j
     effect: k
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
   11:
     cause: j
     effect: l
     label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
 id: ''
 name: ''
 texts:
