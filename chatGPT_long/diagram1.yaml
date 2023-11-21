@@ -8,7 +8,7 @@ constructs:
   f: Social Performance
   g: Environmental Performance
   h: Firm Performance
-figure: FileNameOfDiagram.png
+figure: diagram1.png
 hypotheses:
   1:
     cause: a
