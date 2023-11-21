@@ -1,5 +1,4 @@
 isrecon.duckdb
 isrecon2.duckdb
 GoogleNews-vectors-negative300.bin
-resources\sentences_clean.pkl
-resources\sentences_raw.pkl
+resources/*.pkl
