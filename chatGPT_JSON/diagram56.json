@@ -1,0 +1,32 @@
+{
+  "constructs": [
+    {"name": "B2B Supply Chain Integration"},
+    {"name": "Environment: Demand Unpredictability"},
+    {"name": "Environment: Product Turbulence"},
+    {"name": "Three-way Interaction"},
+    {"name": "Performance: Financial, Market, Operational"}
+  ],
+  "hypotheses": [
+    {
+      "source": "B2B Supply Chain Integration",
+      "target": "Three-way Interaction",
+      "label": "H1 (+)"
+    },
+    {
+      "source": "Environment: Demand Unpredictability",
+      "target": "Three-way Interaction"
+    },
+    {
+      "source": "Environment: Product Turbulence",
+      "target": "Three-way Interaction"
+    },
+    {
+      "source": "Three-way Interaction",
+      "target": "Performance: Financial, Market, Operational",
+      "label": "H2 (-)"
+    }
+  ],
+  "additional_texts": [
+    "Control Variables: Demand unpredictability, product turbulence, size, B2B supply chain integration x demand unpredictability, B2B supply chain integration x product turbulence, demand unpredictability x product turbulence"
+  ]
+}
