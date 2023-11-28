@@ -1,60 +1,46 @@
 {
     "constructs": [
       {
-        "name": "Dimensions of IT Mindfulness",
-        "content": "Alertness to Distinction, Awareness of Multiple Perspectives, Openness to Novelty, Orientation to the Present"
+        "name": "Dimensions of IT Mindfulness "
       },
       {
-        "name": "IT Mindfulness",
-        "content": ""
+        "name": "IT Mindfulness"
       },
       {
-        "name": "Post-Adoptive System Use",
-        "content": "Continuance Intention, Deep Structure Usage, Trying to Innovate"
+        "name": "Post-Adoptive System Use"
       },
       {
-        "name": "Controls",
-        "content": "Perceived Ease of Use, Perceived Usefulness, Spreadsheet Self-efficacy"
+        "name": "Controls"
       },
       {
-        "name": "Alertness to Distinction",
-        "content": ""
+        "name": "Alertness to Distinction"
       },
       {
-        "name": "Awareness of Multiple Perspectives",
-        "content": ""
+        "name": "Awareness of Multiple Perspectives"
       },
       {
-        "name": "Openness to Novelty",
-        "content": ""
+        "name": "Openness to Novelty"
       },
       {
-        "name": "Orientation to the Present",
-        "content": ""
+        "name": "Orientation to the Present"
       },
       {
-        "name": "Continuance Intention",
-        "content": ""
+        "name": "Continuance Intention"
       },
       {
-        "name": "Deep Structure Usage",
-        "content": ""
+        "name": "Deep Structure Usage"
       },
       {
-        "name": "Trying to Innovate",
-        "content": ""
+        "name": "Trying to Innovate"
       },
       {
-        "name": "Perceived Ease of Use",
-        "content": ""
+        "name": "Perceived Ease of Use"
       },
       {
-        "name": "Perceived Usefulness",
-        "content": ""
+        "name": "Perceived Usefulness"
       },
       {
-        "name": "Spreadsheet Self-efficacy",
-        "content": ""
+        "name": "Spreadsheet Self-efficacy"
       }
     ],
     "hypotheses": [

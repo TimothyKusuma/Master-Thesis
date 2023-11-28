@@ -10,23 +10,28 @@
   "hypotheses": [
     {
       "source": "Horizontal and vertical boundaries",
-      "target": "Information processing needs"
+      "target": "Information processing needs",
+      "label": ""
     },
     {
       "source": "Information processing needs",
-      "target": "Fit"
+      "target": "Fit",
+      "label": ""
     },
     {
       "source": "Information processing capacity",
-      "target": "Fit"
+      "target": "Fit",
+      "label": ""
     },
     {
       "source": "IT capabilities",
-      "target": "Information processing capacity"
+      "target": "Information processing capacity",
+      "label": ""
     },
     {
       "source": "Fit",
-      "target": "Performance"
+      "target": "Performance",
+      "label": ""
     }
   ]
 }
