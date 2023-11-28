@@ -1,0 +1,63 @@
+authors: ''
+constructs:
+  a: Entrepreneurial intensity
+  b: Knowledge Integration Capability
+  c: Firm Performance
+  d: Learning Culture
+  e: Knowledge Process Capability
+  f: IT Capability
+figure: diagram97.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.673***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: d
+    effect: b
+    label: 0.652***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: c
+    label: 0.586***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: e
+    label: 0.860***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: f
+    label: 0.765***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: c
+    label: ns
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- '- ** p<0.01, *** p<0.001, ns: not significant'
+year: ''

@@ -1,0 +1,103 @@
+authors: ''
+constructs:
+  a: 'Dimensions of IT Mindfulness '
+  b: IT Mindfulness
+  c: Post-Adoptive System Use
+  d: Controls
+  e: Alertness to Distinction
+  f: Awareness of Multiple Perspectives
+  g: Openness to Novelty
+  h: Orientation to the Present
+  i: Continuance Intention
+  j: Deep Structure Usage
+  k: Trying to Innovate
+  l: Perceived Ease of Use
+  m: Perceived Usefulness
+  n: Spreadsheet Self-efficacy
+figure: diagram28.png
+hypotheses:
+  1:
+    cause: e
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: f
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: g
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: h
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: b
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: b
+    effect: k
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: i
+    effect: l
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: j
+    effect: m
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: k
+    effect: n
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- '- Figure 3. IT Mindfulness Research Model'
+year: ''

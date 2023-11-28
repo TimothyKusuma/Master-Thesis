@@ -1,0 +1,44 @@
+authors: ''
+constructs:
+  a: B2B Supply Chain Integration
+  b: 'Environment: Demand Unpredictability'
+  c: 'Environment: Product Turbulence'
+  d: Three-way Interaction
+  e: 'Performance: Financial, Market, Operational'
+figure: diagram56.png
+hypotheses:
+  1:
+    cause: a
+    effect: d
+    label: H1 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: H2 (-)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: ''
