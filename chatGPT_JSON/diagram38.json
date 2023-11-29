@@ -1,0 +1,47 @@
+{
+  "constructs": [
+    {
+      "name": "IT Application Infrastructure",
+      "sub_constructs": ["IT Resource Usage"]
+    },
+    {
+      "name": "Business Process",
+      "sub_constructs": ["Process Capabilities", "Consistency", "Leverage", "Relevance"]
+    },
+    {
+      "name": "Project Performance",
+      "sub_constructs": ["Change in", "Project Cycle Time", "Project Cost", "Project Quality"]
+    },
+    {
+      "name": "Project Controls",
+      "sub_constructs": ["Autonomy", "Propensity to use IT", "Team Size", "Co-location", "Project Duration"]
+    },
+    {
+      "name": "Organizational Controls",
+      "sub_constructs": ["Number of Concurrent Projects Managed", "Firm Size", "Organizational IQ"]
+    }
+  ],
+  "links": [
+    {
+      "source": "IT Application Infrastructure",
+      "target": "Business Process",
+      "label": ""
+    },
+    {
+      "source": "Business Process",
+      "target": "Project Performance",
+      "label": ""
+    },
+    {
+      "source": "Project Controls",
+      "target": "Business Process",
+      "label": ""
+    },
+    {
+      "source": "Organizational Controls",
+      "target": "Project Performance",
+      "label": ""
+    }
+  ],
+  "texts": []
+}
