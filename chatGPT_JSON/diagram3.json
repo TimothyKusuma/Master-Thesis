@@ -1,37 +1,37 @@
 {
   "constructs": [
     {
-      "name": "Use of Recommendation Agent",
+      "name": "Use of Recommendation Agent"
     },
     {
-      "name": "Product Promotion Effectiveness",
+      "name": "Product Promotion Effectiveness"
     },
     {
-      "name": "PE1",
+      "name": "PE1"
     },
     {
-      "name": "PE2",
+      "name": "PE2"
     },
     {
-      "name": "PE9",
+      "name": "PE9"
     },
     {
-      "name": "Product Search Effectiveness",
+      "name": "Product Search Effectiveness"
     },
     {
-      "name": "Customer Satisfaction with Website",
+      "name": "Customer Satisfaction with Website"
     },
     {
-      "name": "CS1",
+      "name": "CS1"
     },
     {
-      "name": "CS2",
+      "name": "CS2"
     },
     {
-      "name": "CS12",
+      "name": "CS12"
     },
     {
-      "name": "Unplanned Purchase",
+      "name": "Unplanned Purchase"
     }
   ],
   "hypotheses": [

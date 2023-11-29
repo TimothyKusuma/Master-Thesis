@@ -1,16 +1,16 @@
 {
   "constructs": [
     {
-      "name": "Perceived ease of use",
+      "name": "Perceived ease of use"
     },
     {
-      "name": "Perceived usefulness R2=0.55/R2=0.57",
+      "name": "Perceived usefulness R2=0.55/R2=0.57"
     },
     {
-      "name": "Attitude towards website R2=0.74/R2=0.75",
+      "name": "Attitude towards website R2=0.74/R2=0.75"
     },
     {
-      "name": "Future intention to visit R2=0.68/R2=0.69",
+      "name": "Future intention to visit R2=0.68/R2=0.69"
     }
   ],
   "hypotheses": [
