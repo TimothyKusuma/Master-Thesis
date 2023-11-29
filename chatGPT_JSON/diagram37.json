@@ -1,0 +1,42 @@
+{
+  "constructs": [
+    {"name": "Likelihood of receiving investment"},
+    {"name": "Explicit information expectations"},
+    {"name": "Implicit information expectations"},
+    {"name": "Likelihood of repaying investment"},
+    {"name": "Implicit information expectations on competing sites"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Likelihood of receiving investment",
+      "target": "Explicit information expectations",
+      "label": "+"
+    },
+    {
+      "source": "Likelihood of receiving investment",
+      "target": "Implicit information expectations",
+      "label": "+"
+    },
+    {
+      "source": "Likelihood of receiving investment",
+      "target": "Implicit information expectations on competing sites",
+      "label": "-"
+    },
+    {
+      "source": "Explicit information expectations",
+      "target": "Likelihood of repaying investment",
+      "label": "+"
+    },
+    {
+      "source": "Implicit information expectations",
+      "target": "Likelihood of repaying investment",
+      "label": "+"
+    },
+    {
+      "source": "Implicit information expectations on competing sites",
+      "target": "Likelihood of repaying investment",
+      "label": "-"
+    }
+  ],
+  "texts": []
+}
