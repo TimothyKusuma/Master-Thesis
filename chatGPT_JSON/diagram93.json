@@ -1,0 +1,50 @@
+{
+  "constructs": [
+    {
+      "name": "IT Capability"
+    },
+    {
+      "name": "Proactive Corporate Environmental Strategy", "(R2 = 0.123"
+    },
+    {
+      "name": "Firm Performance",
+      "r_squared": "0.262"
+    },
+    {
+      "name": "Control Variables",
+      "sub_constructs": [
+        "Firm Size",
+        "Talent Development Practices Implementation",
+        "Quality Management Practices Implementation"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "IT Capability",
+      "target": "Proactive Corporate Environmental Strategy",
+      "label": "0.351***"
+    },
+    {
+      "source": "Proactive Corporate Environmental Strategy",
+      "target": "Firm Performance",
+      "label": "0.284**"
+    },
+    {
+      "source": "Firm Size",
+      "target": "Firm Performance",
+      "label": "0.407***"
+    },
+    {
+      "source": "Talent Development Practices Implementation",
+      "target": "Firm Performance",
+      "label": "-0.203"
+    },
+    {
+      "source": "Quality Management Practices Implementation",
+      "target": "Firm Performance",
+      "label": "0.193*"
+    }
+  ],
+  "texts": []
+}
