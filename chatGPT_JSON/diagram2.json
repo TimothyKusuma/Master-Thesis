@@ -4,39 +4,39 @@
       "name": "Perceived ease of use",
     },
     {
-      "name": "Perceived usefulness 0.55/R2=0.57",
+      "name": "Perceived usefulness R2=0.55/R2=0.57",
     },
     {
-      "name": "Attitude towards website 0.74/R2=0.75",
+      "name": "Attitude towards website R2=0.74/R2=0.75",
     },
     {
-      "name": "Future intention to visit 0.68/R2=0.69",
+      "name": "Future intention to visit R2=0.68/R2=0.69",
     }
   ],
   "hypotheses": [
     {
       "source": "Perceived ease of use",
-      "target": "Perceived usefulness",
+      "target": "Perceived usefulness R2=0.55/R2=0.57",
       "label": "0.68 0.69"
     },
     {
       "source": "Perceived ease of use",
-      "target": "Attitude towards website",
+      "target": "Attitude towards website R2=0.74/R2=0.75",
       "label": "0.22"
     },
     {
-      "source": "Perceived usefulness",
-      "target": "Attitude towards website",
+      "source": "Perceived usefulness R2=0.55/R2=0.57",
+      "target": "Attitude towards website R2=0.74/R2=0.75",
       "label": "0.65 0.77"
     },
     {
-      "source": "Perceived usefulness",
-      "target": "Future intention to visit",
+      "source": "Perceived usefulness R2=0.55/R2=0.57",
+      "target": "Future intention to visit R2=0.68/R2=0.69",
       "label": "0.44 0.46"
     },
     {
-      "source": "Attitude towards website",
-      "target": "Future intention to visit",
+      "source": "Attitude towards website R2=0.74/R2=0.75",
+      "target": "Future intention to visit R2=0.68/R2=0.69",
       "label": "0.42 0.39"
     }
   ],
