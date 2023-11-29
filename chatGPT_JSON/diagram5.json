@@ -1,0 +1,44 @@
+{
+  "constructs": [
+    {
+      "name": "Gender"
+    },
+    {
+      "name": "IT Job Entry"
+    },
+    {
+      "name": "Starting Salary"
+    },
+    {
+      "name": "Foreigner Status"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Gender",
+      "target": "IT Job Entry",
+      "label": "H3"
+    },
+    {
+      "source": "Gender",
+      "target": "Starting Salary",
+      "label": "H2"
+    },
+    {
+      "source": "IT Job Entry",
+      "target": "Starting Salary",
+      "label": "H1"
+    },
+    {
+      "source": "Foreigner Status",
+      "target": "IT Job Entry",
+      "label": "H5"
+    },
+    {
+      "source": "Foreigner Status",
+      "target": "Starting Salary",
+      "label": "H4"
+    }
+  ],
+  "texts": []
+}
