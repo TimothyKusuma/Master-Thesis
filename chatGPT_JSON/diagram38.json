@@ -1,45 +1,55 @@
 {
   "constructs": [
     {
-      "name": "IT Application Infrastructure",
-      "sub_constructs": ["IT Resource Usage"]
+      "name": "IT Resource Usage"
     },
     {
-      "name": "Business Process",
-      "sub_constructs": ["Process Capabilities", "Consistency", "Leverage", "Relevance"]
+      "name": "Process Capabilities Consistency Leverage Relevance"
     },
     {
-      "name": "Project Performance",
-      "sub_constructs": ["Change in", "Project Cycle Time", "Project Cost", "Project Quality"]
+      "name": "Change in Project Cycle Time Project Cost Project Quality"
     },
     {
-      "name": "Project Controls",
-      "sub_constructs": ["Autonomy", "Propensity to use IT", "Team Size", "Co-location", "Project Duration"]
+      "name": "Autonomy Propensity to use IT Team Size Co-location Project Duration"
     },
     {
-      "name": "Organizational Controls",
-      "sub_constructs": ["Number of Concurrent Projects Managed", "Firm Size", "Organizational IQ"]
+      "name": "Number of Concurrent Projects Managed Firm Size Organizational IQ"
+    },
+    {
+      "name": "IT Application Infrastructure"
+    },
+    {
+      "name": "Business Process"
+    },
+    {
+      "name": "Project Performance"
+    },
+    {
+      "name": "Project Controls"
+    },
+    {
+      "name": "Organizational Controls"
     }
   ],
   "links": [
     {
-      "source": "IT Application Infrastructure",
-      "target": "Business Process",
+      "source": "IT Resource Usage",
+      "target": "Process Capabilities Consistency Leverage Relevance",
       "label": ""
     },
     {
-      "source": "Business Process",
-      "target": "Project Performance",
+      "source": "Process Capabilities Consistency Leverage Relevance",
+      "target": "Change in Project Cycle Time Project Cost Project Quality",
       "label": ""
     },
     {
-      "source": "Project Controls",
-      "target": "Business Process",
+      "source": "Autonomy Propensity to use IT Team Size Co-location Project Duration",
+      "target": "Process Capabilities Consistency Leverage Relevance",
       "label": ""
     },
     {
-      "source": "Organizational Controls",
-      "target": "Project Performance",
+      "source": "Number of Concurrent Projects Managed Firm Size Organizational IQ",
+      "target": "Change in Project Cycle Time Project Cost Project Quality",
       "label": ""
     }
   ],
