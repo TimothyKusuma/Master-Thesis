@@ -1,0 +1,50 @@
+{
+  "constructs": [
+    {"name": "Threat"},
+    {"name": "Fear"},
+    {"name": "Rewards/Costs"},
+    {"name": "Punishments"},
+    {"name": "Role Values"},
+    {"name": "Habit"},
+    {"name": "Intention"},
+    {"name": "Facilitating Conditions"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Threat",
+      "target": "Fear",
+      "label": ""
+    },
+    {
+      "source": "Fear",
+      "target": "Intention",
+      "label": ""
+    },
+    {
+      "source": "Rewards/Costs",
+      "target": "Fear",
+      "label": ""
+    },
+    {
+      "source": "Punishments",
+      "target": "Fear",
+      "label": ""
+    },
+    {
+      "source": "Role Values",
+      "target": "Fear",
+      "label": ""
+    },
+    {
+      "source": "Habit",
+      "target": "Intention",
+      "label": ""
+    },
+    {
+      "source": "Facilitating Conditions",
+      "target": "Intention",
+      "label": ""
+    }
+  ],
+  "texts": []
+}
