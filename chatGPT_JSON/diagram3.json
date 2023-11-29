@@ -1,0 +1,70 @@
+{
+  "constructs": [
+    {
+      "name": "Use of Recommendation Agent",
+    },
+    {
+      "name": "Product Promotion Effectiveness",
+    },
+    {
+      "name": "PE1",
+    },
+    {
+      "name": "PE2",
+    },
+    {
+      "name": "PE9",
+    },
+    {
+      "name": "Product Search Effectiveness",
+    },
+    {
+      "name": "Customer Satisfaction with Website",
+    },
+    {
+      "name": "CS1",
+    },
+    {
+      "name": "CS2",
+    },
+    {
+      "name": "CS12",
+    },
+    {
+      "name": "Unplanned Purchase",
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Use of Recommendation Agent",
+      "target": "Product Promotion Effectiveness",
+      "label": "0.49 ***"
+    },
+    {
+      "source": "Use of Recommendation Agent",
+      "target": "Product Search Effectiveness",
+      "label": "0.20 ***"
+    },
+    {
+      "source": "Product Promotion Effectiveness",
+      "target": "Customer Satisfaction with Website",
+      "label": "0.59 ***"
+    },
+    {
+      "source": "Product Search Effectiveness",
+      "target": "Customer Satisfaction with Website",
+      "label": "0.22 ***"
+    },
+    {
+      "source": "Customer Satisfaction with Website",
+      "target": "Unplanned Purchase",
+      "label": "0.17 **"
+    },
+    {
+      "source": "Product Search Effectiveness",
+      "target": "Unplanned Purchase",
+      "label": "0.26 ***"
+    }
+  ],
+  "texts": []
+}
