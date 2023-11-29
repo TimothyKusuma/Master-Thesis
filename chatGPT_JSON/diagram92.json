@@ -1,0 +1,43 @@
+{
+  "constructs": [
+    {"name": "Risk (Risk Exposure)"},
+    {"name": "Risk Responses with Mitigation Effects"},
+    {"name": "Fit"},
+    {"name": "Residual Risk"},
+    {"name": "Project Performance"},
+    {"name": "Applying formal risk management practices"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Risk (Risk Exposure)",
+      "target": "Fit",
+      "label": "R1 (-)"
+    },
+    {
+      "source": "Fit",
+      "target": "Project Performance",
+      "label": "R2 (+)"
+    },
+    {
+      "source": "Risk Responses with Mitigation Effects",
+      "target": "Fit",
+      "label": "R3 (+)"
+    },
+    {
+      "source": "Fit",
+      "target": "Residual Risk",
+      "label": "R4 (-)"
+    },
+    {
+      "source": "Residual Risk",
+      "target": "Project Performance",
+      "label": "R5 (-)"
+    },
+    {
+      "source": "Applying formal risk management practices",
+      "target": "Project Performance",
+      "label": "R6 (+)"
+    }
+  ],
+  "texts": []
+}
