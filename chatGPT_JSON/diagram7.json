@@ -1,9 +1,10 @@
 {
   "constructs": [
-    {"name": "Specialization benefits", "content": "0.14ns"},
-    {"name": "Market discipline benefits", "content": "0.50**"},
-    {"name": "Flexibility benefits", "content": "-0.07ns"},
-    {"name": "Cost savings", "content": "0.16+"}
+    {"name": "Specialization benefits"},
+    {"name": "Market discipline benefits"},
+    {"name": "Flexibility benefits"},
+    {"name": "Cost savings"},
+    {"name": "Satisfaction of Organization with IT Outsourcing"}
   ],
   "hypotheses": [
     {
@@ -28,7 +29,7 @@
     }
   ],
   "texts": [
-    "- Significance: **p < 0.01, +p < 0.10, nsnot significant",
+    "- Significance: **p < 0.01, +p < 0.10, ns not significant",
     "- Adjusted R^2 = 0.39, n = 94"
   ]
 }
