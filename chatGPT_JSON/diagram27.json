@@ -1,0 +1,69 @@
+{
+  "constructs": [
+    {"name": "Event"},
+    {"name": "Appraisal"},
+    {"name": "Action readiness"},
+    {"name": "Affect"},
+    {"name": "Arousal"},
+    {"name": "Behaviors"},
+    {"name": "Regulation processes"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Event",
+      "target": "Appraisal",
+      "label": ""
+    },
+    {
+      "source": "Appraisal",
+      "target": "Action readiness",
+      "label": ""
+    },
+    {
+      "source": "Appraisal",
+      "target": "Affect",
+      "label": ""
+    },
+    {
+      "source": "Appraisal",
+      "target": "Arousal",
+      "label": ""
+    },
+    {
+      "source": "Action readiness",
+      "target": "Behaviors",
+      "label": ""
+    },
+    {
+      "source": "Affect",
+      "target": "Behaviors",
+      "label": ""
+    },
+    {
+      "source": "Arousal",
+      "target": "Behaviors",
+      "label": ""
+    },
+    {
+      "source": "Regulation processes",
+      "target": "Appraisal",
+      "label": ""
+    },
+    {
+      "source": "Regulation processes",
+      "target": "Action readiness",
+      "label": ""
+    },
+    {
+      "source": "Regulation processes",
+      "target": "Affect",
+      "label": ""
+    },
+    {
+      "source": "Regulation processes",
+      "target": "Arousal",
+      "label": ""
+    }
+  ],
+  "texts": []
+}
