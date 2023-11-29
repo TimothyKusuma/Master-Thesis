@@ -1,0 +1,41 @@
+{
+  "constructs": [
+    {"name": "Professional Identification"},
+    {"name": "Affective Commitment to Profession"},
+    {"name": "Turnaway Intention"},
+    {"name": "Satisfaction with Profession"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Professional Identification",
+      "target": "Affective Commitment to Profession",
+      "label": "H2"
+    },
+    {
+      "source": "Professional Identification",
+      "target": "Turnaway Intention",
+      "label": "H3"
+    },
+    {
+      "source": "Satisfaction with Profession",
+      "target": "Turnaway Intention",
+      "label": "H4"
+    },
+    {
+      "source": "Affective Commitment to Profession",
+      "target": "Turnaway Intention",
+      "label": "H5"
+    },
+    {
+      "source": "Affective Commitment to Profession",
+      "target": "Satisfaction with Profession",
+      "label": "H6"
+    },
+    {
+      "source": "Satisfaction with Profession",
+      "target": "Professional Identification",
+      "label": "H1"
+    }
+  ],
+  "texts": []
+}
