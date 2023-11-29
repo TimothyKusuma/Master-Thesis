@@ -1,0 +1,48 @@
+{
+  "constructs": [
+    {"name": "Threat to freedom from new ISP"},
+    {"name": "Reactance proneness"},
+    {"name": "Existing organizational formal controls"},
+    {"name": "New ISP mandatoriness"},
+    {"name": "Reactance to new ISP"},
+    {"name": "Intent to comply with new ISP"},
+    {"name": "ISP apathy"},
+    {"name": "Similar ISP exists"},
+    {"name": "Age"}
+  ],
+  "hypotheses": [
+    {
+      "source": "Threat to freedom from new ISP",
+      "target": "Reactance to new ISP"
+    },
+    {
+      "source": "Reactance proneness",
+      "target": "Reactance to new ISP"
+    },
+    {
+      "source": "Existing organizational formal controls",
+      "target": "Reactance to new ISP"
+    },
+    {
+      "source": "New ISP mandatoriness",
+      "target": "Reactance to new ISP"
+    },
+    {
+      "source": "Reactance to new ISP",
+      "target": "Intent to comply with new ISP"
+    },
+    {
+      "source": "ISP apathy",
+      "target": "Intent to comply with new ISP"
+    },
+    {
+      "source": "Similar ISP exists",
+      "target": "Intent to comply with new ISP"
+    },
+    {
+      "source": "Age",
+      "target": "Intent to comply with new ISP"
+    }
+  ],
+  "texts": []
+}
