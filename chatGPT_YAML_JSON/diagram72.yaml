@@ -1,0 +1,49 @@
+authors: ''
+constructs:
+  a: Evaluability Bias
+  b: Perceived Attractiveness of a Software Product
+  c: Escalation of Commitment to a Software Product Development Project
+  d: Fairness Effect
+  e: Perceived Attractiveness of a Financial Reward
+  f: Age
+  g: Gender
+  h: IT work experience
+figure: diagram72.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: H1a
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: H1b
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: e
+    label: H2a
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: e
+    effect: c
+    label: H2b
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- Control variables
+year: ''

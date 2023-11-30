@@ -1,0 +1,60 @@
+authors: ''
+constructs:
+  a: Professional Identification
+  b: Affective Commitment to Profession
+  c: Turnaway Intention
+  d: Satisfaction with Profession
+figure: diagram39.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: c
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: b
+    effect: c
+    label: H5
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: d
+    label: H6
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: a
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''

@@ -1,7 +1,7 @@
 {
   "constructs": [
     {"name": "Self identity"},
-    {"name": "Attitude toward anonymity (0.19)"},
+    {"name": " Attitude toward anonymity (0.19)"},
     {"name": "Attitude toward social presence (0.33)"},
     {"name": "Tendency to social comparison"},
     {"name": "External subjective norm"},
@@ -11,32 +11,32 @@
   "hypotheses": [
     {
       "source": "Self identity",
-      "target": "Attitude toward anonymity",
+      "target": " Attitude toward anonymity (0.19)",
       "label": "0.33 (3.40)"
     },
     {
       "source": "Self identity",
-      "target": "Attitude toward social presence",
+      "target": "Attitude toward social presence (0.33)",
       "label": "0.48 (5.95)"
     },
     {
-      "source": "Attitude toward social presence",
-      "target": "Satisfaction with the use of Avatar",
+      "source": "Attitude toward social presence (0.33)",
+      "target": "Satisfaction with the use of Avatar (0.43)",
       "label": "0.42 (2.96)"
     },
     {
       "source": "Tendency to social comparison",
-      "target": "Satisfaction with the use of Avatar",
+      "target": "Satisfaction with the use of Avatar (0.43)",
       "label": "0.26 (2.49)"
     },
     {
       "source": "External subjective norm",
-      "target": "Satisfaction with the use of Avatar",
+      "target": "Satisfaction with the use of Avatar (0.43)",
       "label": "0.03 (0.19)"
     },
     {
-      "source": "Satisfaction with the use of Avatar",
-      "target": "Loyalty to the Community",
+      "source": "Satisfaction with the use of Avatar (0.43)",
+      "target": "Loyalty to the Community (0.84)",
       "label": "0.91 (15.53)"
     }
   ],

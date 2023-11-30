@@ -1,0 +1,72 @@
+authors: ''
+constructs:
+  a: Threat
+  b: Fear
+  c: Rewards/Costs
+  d: Punishments
+  e: Role Values
+  f: Habit
+  g: Intention
+  h: Facilitating Conditions
+figure: diagram8.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: b
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: h
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''

@@ -1,0 +1,47 @@
+authors: ''
+constructs:
+  a: Specialization benefits
+  b: Market discipline benefits
+  c: Flexibility benefits
+  d: Cost savings
+  e: Satisfaction of Organization with IT Outsourcing
+figure: diagram7.png
+hypotheses:
+  1:
+    cause: a
+    effect: e
+    label: 0.14ns
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: e
+    label: 0.50**
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: e
+    label: -0.07ns
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: 0.16+
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- '- Significance: **p < 0.01, +p < 0.10, ns not significant'
+- '- Adjusted R^2 = 0.39, n = 94'
+year: ''

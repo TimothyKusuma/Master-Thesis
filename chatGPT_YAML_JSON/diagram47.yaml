@@ -1,0 +1,81 @@
+authors: ''
+constructs:
+  a: Threat to freedom from new ISP
+  b: Reactance proneness
+  c: Existing organizational formal controls
+  d: New ISP mandatoriness
+  e: Reactance to new ISP
+  f: Intent to comply with new ISP
+  g: ISP apathy
+  h: Similar ISP exists
+  i: Age
+figure: diagram47.png
+hypotheses:
+  1:
+    cause: a
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: h
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: i
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''

@@ -1,0 +1,57 @@
+authors: ''
+constructs:
+  a: EB Investment
+  b: EB Usage
+  c: EB Value
+  d: Sales
+  e: Internal Operation
+  f: Coordination
+figure: diagram88.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 0.24***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: 0.33***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: 0.88***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: c
+    effect: e
+    label: 0.78***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: c
+    effect: f
+    label: 0.83***
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts:
+- '- ***p < 0.01'
+- '- **p < 0.05'
+- '- *p < 0.10'
+year: ''
