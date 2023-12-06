@@ -1,0 +1,129 @@
+authors: ''
+constructs:
+  a: Outstanding benevolence text comments
+  b: Abysmal benevolence text comments
+  c: Outstanding credibility text comments
+  d: Abysmal credibility text comments
+  e: Feedback text comments
+  f: Benevolence
+  g: Credibility
+  h: Ordinary comments
+  i: Positive ratings
+  j: Negative ratings
+  k: Trust propensity
+  l: Past experience
+  m: Product price
+  n: Auction bids
+  o: Price premiums
+  p: Control variables
+  q: Hypothesized effects
+  r: Control effects
+figure: diagram48.png
+hypotheses:
+  1:
+    cause: a
+    effect: f
+    label: 'H3a (+)'
+    name: ''
+    sign: '+'
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: f
+    label: 'H3b (-)'
+    name: ''
+    sign: '-'
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: g
+    label: 'H4a (+)'
+    name: ''
+    sign: '+'
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: g
+    label: 'H4b (-)'
+    name: ''
+    sign: '-'
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: o
+    label: 'H1 (+)'
+    name: ''
+    sign: '+'
+    significance: ''
+    strength: ''
+  6:
+    cause: g
+    effect: o
+    label: 'H2 (+)'
+    name: ''
+    sign: '+'
+    significance: ''
+    strength: ''
+  7:
+    cause: e
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  8:
+    cause: e
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  9:
+    cause: e
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  10:
+    cause: e
+    effect: k
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  11:
+    cause: e
+    effect: l
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  12:
+    cause: p
+    effect: m
+    label: 'Control effects'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  13:
+    cause: p
+    effect: n
+    label: 'Control effects'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000
