@@ -1,0 +1,57 @@
+authors: ''
+constructs:
+  a: Time priority (reliability, speed)
+  b: Nearby suppliers
+  c: Close to customers
+  d: Source from domestic suppliers
+  e: Sell to domestic customers
+  f: Control variables
+  g: Company size
+  h: Company origin
+  i: Country competitiveness
+  j: Product characteristics
+figure: diagram16.png
+hypotheses:
+  1:
+    cause: a
+    effect: b
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: c
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: a
+    effect: d
+    label: 'H3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: a
+    effect: e
+    label: 'H4'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: b
+    label: 'Control variables: Company size, Company origin, Country competitiveness, Product characteristics'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

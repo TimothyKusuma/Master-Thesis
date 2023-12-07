@@ -1,0 +1,51 @@
+authors: ''
+constructs:
+  a: Gender
+  b: IT Job Entry
+  c: Starting Salary
+  d: Foreigner Status
+figure: diagram5.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: 'H2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: a
+    effect: b
+    label: 'H3'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: b
+    effect: c
+    label: 'H1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: c
+    label: 'H4'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: d
+    effect: b
+    label: 'H5'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

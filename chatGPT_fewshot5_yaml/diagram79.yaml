@@ -1,0 +1,51 @@
+authors: ''
+constructs:
+  a: Using the Prescribed Tools and Techniques
+  b: Other Antecedents (e.g., risk propensity)
+  c: Risk Perception
+  d: Risk Response Enactment
+figure: diagram79.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: 'P1'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: 'P2'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: d
+    label: 'P3 (+)'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: a
+    effect: d
+    label: 'P4'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: b
+    effect: d
+    label: 'P5'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

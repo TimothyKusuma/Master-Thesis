@@ -1,0 +1,43 @@
+authors: ''
+constructs:
+  a: Government Support, Legal Framework, Social Openness
+  b: Business and Technology Investment
+  c: Socioeconomic Level
+  d: Technology Utilization
+figure: diagram69.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: '0.955*** (10.307)'
+    name: ''
+    sign: '***'
+    significance: 'High'
+    strength: '0.955'
+  2:
+    cause: b
+    effect: c
+    label: '0.984*** (4.514)'
+    name: ''
+    sign: '***'
+    significance: 'High'
+    strength: '0.984'
+  3:
+    cause: c
+    effect: d
+    label: '1.940** (2.579)'
+    name: ''
+    sign: '**'
+    significance: 'High'
+    strength: '1.940'
+  4:
+    cause: b
+    effect: d
+    label: '-0.975 (-1.348)'
+    name: ''
+    sign: ''
+    significance: 'Not significant'
+    strength: '-0.975'
+id: ''
+name: ''
+year: 1000

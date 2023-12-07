@@ -1,0 +1,75 @@
+authors: ''
+constructs:
+  a: Online product reviews
+  b: Demand-side
+  c: Supply-side
+  d: The role of online reviews on consumer purchase
+  e: Review manipulation
+  f: Business owners’ responses
+  g: Impact on consumer satisfaction
+  h: Impact on focal business performance
+  i: Spillover effect of owner responses on nearby businesses
+  j: When to respond to consumer reviews
+  k: Prior literature
+  l: Our study
+figure: diagram86.png
+hypotheses:
+  1:
+    cause: b
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: g
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: f
+    effect: h
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: f
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  7:
+    cause: f
+    effect: j
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000

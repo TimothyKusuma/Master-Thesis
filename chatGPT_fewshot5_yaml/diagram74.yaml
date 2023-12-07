@@ -1,0 +1,49 @@
+authors: ''
+constructs:
+  a: Distal Causes of Post-Adoptive Usage
+  b: Trust in Functionality
+  c: Proximal Causes of Post-Adoptive Usage
+  d: Internal CSE
+  e: Post-Adoptive Usage
+  f: Deep Structure Usage / Trying to Innovate
+  g: Control variables
+  h: Experience
+  i: Gender
+  j: Education
+figure: diagram74.png
+hypotheses:
+  1:
+    cause: b
+    effect: d
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: d
+    effect: e
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: g
+    effect: e
+    label: 'Control variables: Experience, Gender, and Education'
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000
