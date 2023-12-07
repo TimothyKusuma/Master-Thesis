@@ -1,0 +1,53 @@
+authors: ''
+constructs:
+  a: Task Characteristics
+  b: Interaction of Task and Technology (FIT or TTF)
+  c: Technology Functionality
+  d: Interaction of Technology and CSE (CSET Fit)
+  e: Computer Self-Efficacy (CSE)
+  f: Technology Utilization
+figure: diagram64.png
+hypotheses:
+  1:
+    cause: a
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: f
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+year: 1000
