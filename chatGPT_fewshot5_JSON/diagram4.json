@@ -1,0 +1,59 @@
+{
+  "constructs": [
+    {
+      "name": "IT Unit's Emerging IT Sensing"
+    },
+    {
+      "name": "IT Unit's Emerging IT Sense-making"
+    },
+    {
+      "name": "IT Unit's Improvisation support through: a. Knowledge sharing b. Technology standardization"
+    },
+    {
+      "name": "IT Unit's Learning-on-the-fly support through Digitization"
+    },
+    {
+      "name": "1 Scanning"
+    },
+    {
+      "name": "2 Matching"
+    },
+    {
+      "name": "3 Implementation"
+    },
+    {
+      "name": "4 Customer Value"
+    },
+    {
+      "name": "Organizational Performance"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "IT Unit's Emerging IT Sensing",
+      "target": "1 Scanning",
+      "label": "H1"
+    },
+    {
+      "source": "IT Unit's Emerging IT Sense-making",
+      "target": "2 Matching",
+      "label": "H2"
+    },
+    {
+      "source": "IT Unit's Improvisation support through: a. Knowledge sharing b. Technology standardization",
+      "target": "3 Implementation",
+      "label": "H3a H3b"
+    },
+    {
+      "source": "IT Unit's Learning-on-the-fly support through Digitization",
+      "target": "4 Customer Value",
+      "label": "H4"
+    },
+    {
+      "source": "4 Customer Value",
+      "target": "Organizational Performance",
+      "label": ""
+    }
+  ],
+  "texts": []
+}

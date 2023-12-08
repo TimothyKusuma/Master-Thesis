@@ -1,0 +1,40 @@
+{
+  "constructs": [
+    {
+      "name": "Dynamic Interaction"
+    },
+    {
+      "name": "Perceived Reliability"
+    },
+    {
+      "name": "Perceived Usefulness"
+    },
+    {
+      "name": "Intention To Use"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Dynamic Interaction",
+      "target": "Perceived Reliability",
+      "label": "H1"
+    },
+    {
+      "source": "Dynamic Interaction",
+      "target": "Perceived Usefulness",
+      "label": "H2"
+    },
+    {
+      "source": "Perceived Reliability",
+      "target": "Intention To Use",
+      "label": "H3"
+    },
+    {
+      "source": "Perceived Usefulness",
+      "target": "Intention To Use",
+      "label": "H4"
+    }
+  ],
+  "texts": []
+}
+ 

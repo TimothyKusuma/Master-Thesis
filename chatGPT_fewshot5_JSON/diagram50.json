@@ -1,0 +1,58 @@
+{
+    "constructs": [
+        {
+            "name": "Change Strategy *Reconfigure Existing Resources *Acquire and Reconfigure Resources *Acquire Resources Without Configuring *Business as Usual"
+        },
+        {
+            "name": "Knowledge Type *Explicit *Tacit"
+        },
+        {
+            "name": "Knowledge Management Strategy *Creation *Transfer *Protection"
+        },
+        {
+            "name": "Information Technology Application *Codify Knowledge *Create Networks"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Change Strategy *Reconfigure Existing Resources *Acquire and Reconfigure Resources *Acquire Resources Without Configuring *Business as Usual",
+            "target": "Knowledge Type *Explicit *Tacit",
+            "label": "D1",
+            "relationship": "Direct"
+        },
+        {
+            "source": "Knowledge Type *Explicit *Tacit",
+            "target": "Knowledge Management Strategy *Creation *Transfer *Protection",
+            "label": "D2",
+            "relationship": "Direct"
+        },
+        {
+            "source": "Knowledge Management Strategy *Creation *Transfer *Protection",
+            "target": "Information Technology Application *Codify Knowledge *Create Networks",
+            "label": "D3",
+            "relationship": "Direct"
+        },
+        {
+            "source": "Change Strategy *Reconfigure Existing Resources *Acquire and Reconfigure Resources *Acquire Resources Without Configuring *Business as Usual",
+            "target": "Knowledge Management Strategy *Creation *Transfer *Protection",
+            "label": "I1",
+            "relationship": "Indirect"
+        },
+        {
+            "source": "Knowledge Type *Explicit *Tacit",
+            "target": "Information Technology Application *Codify Knowledge *Create Networks",
+            "label": "I3",
+            "relationship": "Indirect"
+        },
+        {
+            "source": "Change Strategy *Reconfigure Existing Resources *Acquire and Reconfigure Resources *Acquire Resources Without Configuring *Business as Usual",
+            "target": "Information Technology Application *Codify Knowledge *Create Networks",
+            "label": "I2",
+            "relationship": "Indirect"
+        }
+    ],
+    "texts": [
+        "D-Direct Relationship (solid line)",
+        "I-Indirect Relationship (dotted line)"
+    ]
+}

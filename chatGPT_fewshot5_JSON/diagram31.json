@@ -1,0 +1,58 @@
+{
+  "constructs": [
+    {
+      "name": "PEMs"
+    },
+    {
+      "name": "Trade-off difficulty (R2=0.016)"
+    },
+    {
+      "name": "Perceived control (R2=0.297)"
+    },
+    {
+      "name": "Perceived accuracy (R2=0.461)"
+    },
+    {
+      "name": "Intentions to use RAs (R2=0.270)"
+    },
+    {
+      "name": "Perceived effort (R2=0.290)"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "PEMs",
+      "target": "Trade-off difficulty (R2=0.016)",
+      "label": "0.125 (t=0.827)"
+    },
+    {
+      "source": "Trade-off difficulty (R2=0.016)",
+      "target": "Perceived control (R2=0.297)",
+      "label": "-0.545*** (t=-5.391)"
+    },
+    {
+      "source": "Perceived control (R2=0.297)",
+      "target": "Perceived accuracy (R2=0.461)",
+      "label": "0.679*** (t=8.733)"    
+    },
+    {
+      "source": "Perceived accuracy (R2=0.461)",
+      "target": "Intentions to use RAs (R2=0.270)",
+      "label": "0.267b (t=1.477)"
+    },
+    {
+      "source": "Perceived effort (R2=0.290)",
+      "target": "Perceived accuracy (R2=0.461)",
+      "label": "-0.538** (t=-3.014)"
+    },
+    {
+      "source": "Perceived accuracy (R2=0.461)",
+      "target": "Intentions to use RAs (R2=0.270)",
+      "label": "-0.313* (t=-1.872)"
+    }
+  ],
+  "texts": [
+    "aA 95% chance detecting medium effect (0.30) for one-tailed testing at the 0.05 significance level.",
+    "bA 57% chance of detecting medium effect (0.30) for one-tailed testing at the 0.05 significance level. The low chance of 57% suggests that power may be the reason for the nonsignificant result."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+    "constructs": [
+      {
+        "name": "Blog Use",
+      },
+      {
+        "name": "Social Connections",
+      },
+      {
+        "name": "Reciprocity",
+      },
+      {
+        "name": "Trust"
+      }
+    ],
+    "hypotheses": [
+      {
+        "source": "Blog Use",
+        "target": "Social Connections",
+        "label": "0.459*** T=10.692"
+      },
+      {
+        "source": "Social Connections",
+        "target": "Reciprocity",
+        "label": "0.517*** T=12.096"
+      },
+      {
+        "source": "Reciprocity",
+        "target": "Trust",
+        "label": "0.203*** T=3.285"
+      }
+    ],
+    "texts": []
+  }
+  

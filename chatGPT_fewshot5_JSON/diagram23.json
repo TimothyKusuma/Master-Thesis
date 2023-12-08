@@ -1,0 +1,28 @@
+{
+  "constructs": [
+    {
+      "name": "Product-based personalization"
+    },
+    {
+      "name": "Probability of opening an e-mail"
+    },
+    {
+      "name": "Consumer characteristics Prior purchase"
+    },
+    {
+      "name": "Control variable Frequency of e-mails Prior response"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Product-based personalization",
+      "target": "Probability of opening an e-mail",
+      "label": "H1 (+ve)"
+    }
+  ],
+  "texts": [
+    {
+      "text": "Note: +ve, positive."
+    }
+  ]
+}

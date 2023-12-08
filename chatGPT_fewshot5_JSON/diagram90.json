@@ -1,0 +1,34 @@
+{
+  "constructs": [
+      {
+          "name": "Perceived Attributes of Innovations"
+      },
+      {
+          "name": "Relative Advantage"
+      },
+      {
+          "name": "Compatibility"
+      },
+      {
+          "name": "Adoption of User Innovation"
+      }
+  ],
+  "hypotheses": [
+      {
+          "source": "Relative Advantage",
+          "target": "Adoption of User Innovation",
+          "label": "H1 (+)"
+      },
+      {
+          "source": "Compatibility",
+          "target": "Adoption of User Innovation",
+          "label": "H2 (+)"
+      },
+      {
+          "source": "Change Agents' Promotion Efforts",
+          "target": "Adoption of User Innovation",
+          "label": "H3 (+)"
+      }
+  ],
+  "texts": []
+}

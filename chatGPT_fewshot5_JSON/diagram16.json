@@ -1,0 +1,45 @@
+{
+  "constructs": [
+    {
+      "name": "Time priority (reliability, speed)"
+    },
+    {
+      "name": "Nearby suppliers"
+    },
+    {
+      "name": "Close to customers"
+    },
+    {
+      "name": "Source from domestic suppliers"
+    },
+    {
+      "name": "Sell to domestic customers"
+    },
+    {
+      "name": "Control variables company size company origin country competitiveness product characteristics"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Time priority (reliability, speed)",
+      "target": "Nearby suppliers",
+      "label": "H1"
+    },
+    {
+      "source": "Time priority (reliability, speed)",
+      "target": "Close to customers",
+      "label": "H2"
+    },
+    {
+      "source": "Time priority (reliability, speed)",
+      "target": "Source from domestic suppliers",
+      "label": "H3"
+    },
+    {
+      "source": "Time priority (reliability, speed)",
+      "target": "Sell to domestic customers",
+      "label": "H4"
+    }
+  ],
+  "texts": []
+}

@@ -1,0 +1,36 @@
+{
+  "constructs": [
+      {
+          "name": "Modeling Guidelines"
+      },
+      {
+          "name": "Information Representation"
+      },
+      {
+          "name": "Task Behavior: Attention, Association"
+      },
+      {
+          "name": "Task Performance"
+      }
+  ],
+  "hypotheses": [
+      {
+          "source": "Modeling Guidelines",
+          "target": "Information Representation",
+          "label": ""
+      },
+      {
+          "source": "Information Representation",
+          "target": "Task Behavior: Attention, Association",
+          "label": ""
+      },
+      {
+          "source": "Task Behavior: Attention, Association",
+          "target": "Task Performance",
+          "label": ""
+      }
+  ],
+  "texts": [
+      "Eye tracking and verbal protocol analysis"
+  ]
+}

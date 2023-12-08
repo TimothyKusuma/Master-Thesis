@@ -1,0 +1,50 @@
+{
+  "constructs": [
+    {
+      "name": "Feedback Presence"
+    },
+    {
+      "name": "Task Performance"
+    },
+    {
+      "name": "Interface Usage"
+    },
+    {
+      "name": "Interface Preference"
+    },
+    {
+      "name": "Positive Feedback"
+    },
+    {
+      "name": "Negative Feedback"
+    }
+  ],
+  "hypotheses": [
+    {
+      "source": "Feedback Presence",
+      "target": "Task Performance",
+      "label": "H2"
+    },
+    {
+      "source": "Interface Usage",
+      "target": "Task Performance",
+      "label": "H3a"
+    },
+    {
+      "source": "Positive Feedback",
+      "target": "Interface Usage",
+      "label": "H3a"
+    },
+    {
+      "source": "Negative Feedback",
+      "target": "Interface Usage",
+      "label": "H3b"
+    },
+    {
+      "source": "Task Performance",
+      "target": "Interface Preference",
+      "label": "H1"
+    }
+  ],
+  "texts": []
+}
