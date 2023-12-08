@@ -1,0 +1,62 @@
+authors: ''
+constructs:
+  a: Coercive
+  b: Mimetic
+  c: Norms
+  d: Organizational Readiness
+  e: Relational Investment
+  f: Intention of RFID Adoption
+figure: diagram11.png
+hypotheses:
+  1:
+    cause: a
+    effect: e
+    label: H1a
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: e
+    label: H1b
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: e
+    label: H1c
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: e
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: e
+    effect: f
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  6:
+    cause: d
+    effect: f
+    label: H3
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''

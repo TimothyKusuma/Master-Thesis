@@ -1,0 +1,27 @@
+authors: ''
+constructs:
+  a: Trust centrality
+  b: Communication centrality
+  c: Individual performance
+figure: diagram76.png
+hypotheses:
+  1:
+    cause: a
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: c
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''
