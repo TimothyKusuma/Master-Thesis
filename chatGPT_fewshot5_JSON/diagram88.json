@@ -1,0 +1,54 @@
+{
+    "constructs": [
+        {
+            "name": "EB Investment"
+        },
+        {
+            "name": "EB Usage"
+        },
+        {
+            "name": "EB Value"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Internal Operation"
+        },
+        {
+            "name": "Coordination"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "EB Investment",
+            "target": "EB Usage",
+            "label": "0.24***"
+        },
+        {
+            "source": "EB Usage",
+            "target": "EB Value",
+            "label": "0.33***"
+        },
+        {
+            "source": "EB Value",
+            "target": "Sales",
+            "label": "0.88***"
+        },
+        {
+            "source": "EB Value",
+            "target": "Internal Operation",
+            "label": "0.78***"
+        },
+        {
+            "source": "EB Value",
+            "target": "Coordination",
+            "label": "0.83***"
+        }
+    ],
+    "texts": [
+        "***p < 0.01",
+        "**p < 0.05",
+        "*p < 0.10"
+    ]
+}

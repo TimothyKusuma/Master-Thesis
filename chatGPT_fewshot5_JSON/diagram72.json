@@ -1,0 +1,54 @@
+{
+    "constructs": [
+        {
+            "name": "Evaluability Bias"
+        },
+        {
+            "name": "Fairness Effect"
+        },
+        {
+            "name": "Perceived Attractiveness of a Software Product"
+        },
+        {
+            "name": "Escalation of Commitment to a Software Product Development Project"
+        },
+        {
+            "name": "Perceived Attractiveness of a Financial Reward"
+        },
+        {
+            "name": "Age"
+        },
+        {
+            "name": "Gender"
+        },
+        {
+            "name": "IT work experience"
+        },
+        {
+            "name": "Control variables"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Evaluability Bias",
+            "target": "Perceived Attractiveness of a Software Product",
+            "label": "H1a"
+        },
+        {
+            "source": "Perceived Attractiveness of a Software Product",
+            "target": "Escalation of Commitment to a Software Product Development Project",
+            "label": "H1b"
+        },
+        {
+            "source": "Fairness Effect",
+            "target": "Perceived Attractiveness of a Financial Reward",
+            "label": "H2a"
+        },
+        {
+            "source": "Perceived Attractiveness of a Financial Reward",
+            "target": "Escalation of Commitment to a Software Product Development Project",
+            "label": "H2b"
+        }
+    ],
+    "texts": []
+}

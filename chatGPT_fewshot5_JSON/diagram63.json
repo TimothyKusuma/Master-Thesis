@@ -1,0 +1,74 @@
+{
+    "constructs": [
+        {
+            "name": "Emotional Distress"
+        },
+        {
+            "name": "Situational Temptation"
+        },
+        {
+            "name": "Positive Social Situations"
+        },
+        {
+            "name": "Privacy Self-efficacy"
+        },
+        {
+            "name": "Perceived Pros"
+        },
+        {
+            "name": "Perceived Cons"
+        },
+        {
+            "name": "Decisional Balance"
+        },
+        {
+            "name": "Willingness to disclose"
+        },
+        {
+            "name": "Actual self-disclosure in"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Emotional Distress",
+            "target": "Situational Temptation",
+            "label": "H2a (+)"
+        },
+        {
+            "source": "Positive Social Situations",
+            "target": "Situational Temptation",
+            "label": "H2b (+)"
+        },
+        {
+            "source": "Privacy Self-efficacy",
+            "target": "Willingness to disclose",
+            "label": "H3 (-)"
+        },
+        {
+            "source": "Perceived Pros",
+            "target": "Decisional Balance",
+            "label": "H1a (+)"
+        },
+        {
+            "source": "Perceived Cons",
+            "target": "Decisional Balance",
+            "label": "H1b (-)"
+        },
+        {
+            "source": "Decisional Balance",
+            "target": "Willingness to disclose",
+            "label": "H1 (+)"
+        },
+        {
+            "source": "Situational Temptation",
+            "target": "Willingness to disclose",
+            "label": "H2 (+)"
+        },
+        {
+            "source": "Willingness to disclose",
+            "target": "Actual self-disclosure in",
+            "label": "H5 (+)"
+        }
+    ],
+    "texts": []
+}

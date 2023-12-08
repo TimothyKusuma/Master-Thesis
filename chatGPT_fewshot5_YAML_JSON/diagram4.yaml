@@ -1,0 +1,58 @@
+authors: ''
+constructs:
+  a: IT Unit's Emerging IT Sensing
+  b: IT Unit's Emerging IT Sense-making
+  c: 'IT Unit''s Improvisation support through: a. Knowledge sharing b. Technology
+    standardization'
+  d: IT Unit's Learning-on-the-fly support through Digitization
+  e: 1 Scanning
+  f: 2 Matching
+  g: 3 Implementation
+  h: 4 Customer Value
+  i: Organizational Performance
+figure: diagram4.png
+hypotheses:
+  1:
+    cause: a
+    effect: e
+    label: H1
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: b
+    effect: f
+    label: H2
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: c
+    effect: g
+    label: H3a H3b
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  4:
+    cause: d
+    effect: h
+    label: H4
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  5:
+    cause: h
+    effect: i
+    label: ''
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''

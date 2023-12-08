@@ -1,0 +1,37 @@
+authors: ''
+constructs:
+  a: Perceived Attributes of Innovations
+  b: Relative Advantage
+  c: Compatibility
+  d: Change Agents' Promotion Efforts
+  e: Adoption of User Innovation
+figure: diagram90.png
+hypotheses:
+  1:
+    cause: b
+    effect: e
+    label: H1 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  2:
+    cause: c
+    effect: e
+    label: H2 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+  3:
+    cause: d
+    effect: e
+    label: H3 (+)
+    name: ''
+    sign: ''
+    significance: ''
+    strength: ''
+id: ''
+name: ''
+texts: []
+year: ''
