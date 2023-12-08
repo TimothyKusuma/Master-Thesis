@@ -1,0 +1,52 @@
+{
+    "constructs": [
+        {
+            "name": "Personalized directories"
+        },
+        {
+            "name": "Codified directories"
+        },
+        {
+            "name": "Transactive memory"
+        },
+        {
+            "name": "Syntactic boundary"
+        },
+        {
+            "name": "Semantic boundary"
+        },
+        {
+            "name": "Pragmatic boundary"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Personalized directories",
+            "target": "Transactive memory",
+            "label": "H4.2"
+        },
+        {
+            "source": "Codified directories",
+            "target": "Transactive memory",
+            "label": "H4.1"
+        },
+        {
+            "source": "Transactive memory",
+            "target": "Syntactic boundary",
+            "label": "H1"
+        },
+        {
+            "source": "Syntactic boundary",
+            "target": "Semantic boundary",
+            "label": "H2"
+        },
+        {
+            "source": "Transactive memory",
+            "target": "Pragmatic boundary",
+            "label": "H3"
+        }
+    ],
+    "texts": [
+        "Figure 1. Theoretical model"
+    ]
+}

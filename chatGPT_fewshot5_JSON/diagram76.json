@@ -1,0 +1,26 @@
+{
+    "constructs": [
+        {
+            "name": "Trust centrality"
+        },
+        {
+            "name": "Communication centrality"
+        },
+        {
+            "name": "Individual performance"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Trust centrality",
+            "target": "Individual performance",
+            "label": ""
+        },
+        {
+            "source": "Communication centrality",
+            "target": "Individual performance",
+            "label": ""
+        }
+    ],
+    "texts": []
+}
