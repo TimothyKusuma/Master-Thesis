@@ -1,0 +1,58 @@
+{
+    "constructs": [
+        {
+            "name": "Customer"
+        },
+        {
+            "name": "ASP"
+        },
+        {
+            "name": "ISP"
+        },
+        {
+            "name": "Telecom"
+        },
+        {
+            "name": "Outsourced Services"
+        },
+        {
+            "name": "Platform Suppliers"
+        },
+        {
+            "name": "Integration Services" 
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Customer",
+            "target": "ASP",
+            "label": ""
+        },
+        {
+            "source": "ASP",
+            "target": "ISP",
+            "label": ""
+        },
+        {
+            "source": "ISP",
+            "target": "Telecom",
+            "label": ""
+        },
+        {
+            "source": "ASP",
+            "target": "Outsourced Services",
+            "label": ""
+        },
+        {
+            "source": "Outsourced Services",
+            "target": "Integration Services",
+            "label": ""
+        },
+        {
+            "source": "Integration Services",
+            "target": "Platform Suppliers",
+            "label": ""
+        }
+    ],
+    "texts": []
+}

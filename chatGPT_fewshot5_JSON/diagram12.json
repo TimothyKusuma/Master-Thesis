@@ -1,0 +1,47 @@
+{
+    "constructs": [
+        {
+            "name": "Ability to Adopt - M-health Self-Efficacy - Information Seeking Experience"
+        },
+        {
+            "name": "Risk beliefs"
+        },
+        {
+            "name": "Health Information Privacy Concerns"
+        },
+        {
+            "name": "Trust beliefs"
+        },
+        {
+            "name": "M-health Adoption Intention"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Ability to Adopt - M-health Self-Efficacy - Information Seeking Experience",
+            "target": "M-health Adoption Intention",
+            "label": "(.360)***"
+        },
+        {
+            "source": "Risk beliefs",
+            "target": "Health Information Privacy Concerns",
+            "label": "(.331)***"
+        },
+        {
+            "source": "Risk beliefs",
+            "target": "M-health Adoption Intention",
+            "label": "(.328)***"
+        },
+        {
+            "source": "Health Information Privacy Concerns",
+            "target": "M-health Adoption Intention",
+            "label": "(-.227)**"
+        },
+        {
+            "source": "Trust beliefs",
+            "target": "Health Information Privacy Concerns",
+            "label": "(.057)n.s."
+        }
+    ],
+    "texts": []
+}

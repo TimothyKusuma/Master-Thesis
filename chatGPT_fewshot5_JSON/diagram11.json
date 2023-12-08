@@ -1,0 +1,55 @@
+{
+    "constructs": [
+        {
+            "name": "Coercive"
+        },
+        {
+            "name": "Mimetic"
+        },
+        {
+            "name": "Norms"
+        },
+        {
+            "name": "Organizational Readiness"
+        },
+        {
+            "name": "Relational Investment"
+        },
+        {
+            "name": "Intention of RFID Adoption"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Coercive",
+            "target": "Relational Investment",
+            "label": "H1a"
+        },
+        {
+            "source": "Mimetic",
+            "target": "Relational Investment",
+            "label": "H1b"
+        },
+        {
+            "source": "Norms",
+            "target": "Relational Investment",
+            "label": "H1c"
+        },
+        {
+            "source": "Organizational Readiness",
+            "target": "Relational Investment",
+            "label": "H4"
+        },
+        {
+            "source": "Relational Investment",
+            "target": "Intention of RFID Adoption",
+            "label": "H2"
+        },
+        {
+            "source": "Organizational Readiness",
+            "target": "Intention of RFID Adoption",
+            "label": "H3"
+        }
+    ],
+    "texts": []
+}

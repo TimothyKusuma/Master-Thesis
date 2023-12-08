@@ -1,0 +1,34 @@
+{
+  "constructs": [
+      {
+          "name": "EDUCATION"
+      },
+      {
+          "name": "COMPLEMENTARITY EDUCATION*R&D"
+      },
+      {
+          "name": "PERFORMANCE"
+      },
+      {
+          "name": "CONTROL VARIABLES Structural Managerial Governance"
+      }
+  ],
+  "hypotheses": [
+      {
+          "source": "EDUCATION",
+          "target": "PERFORMANCE",
+          "label": ""
+      },
+      {
+          "source": "COMPLEMENTARITY EDUCATION*R&D",
+          "target": "PERFORMANCE",
+          "label": ""
+      },
+      {
+          "source": "CONTROL VARIABLES Structural Managerial Governance",
+          "target": "PERFORMANCE",
+          "label": ""
+      }
+  ],
+  "texts": []
+}

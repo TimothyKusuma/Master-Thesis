@@ -1,0 +1,52 @@
+{
+    "constructs": [
+        {
+            "name": "Distal Causes of Post-Adoptive Usage"
+        },
+        {
+            "name": "Proximal Causes of Post-Adoptive Usage"
+        },
+        {
+            "name": "Trust in Functionality"
+        },
+        {
+            "name": "Internal CSE"
+        },
+        {
+            "name": "Post-Adoptive Usage"
+        },
+        {
+            "name": "Deep Structure Usage / Trying to Innovate"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Distal Causes of Post-Adoptive Usage",
+            "target": "Internal CSE",
+            "label": ""
+        },
+        {
+            "source": "Proximal Causes of Post-Adoptive Usage",
+            "target": "Internal CSE",
+            "label": ""
+        },
+        {
+            "source": "Trust in Functionality",
+            "target": "Internal CSE",
+            "label": ""
+        },
+        {
+            "source": "Internal CSE",
+            "target": "Post-Adoptive Usage",
+            "label": ""
+        },
+        {
+            "source": "Internal CSE",
+            "target": "Deep Structure Usage / Trying to Innovate",
+            "label": ""
+        }
+    ],
+    "texts": [
+        "Control variables: Experience, Gender, and Education"
+    ]
+}

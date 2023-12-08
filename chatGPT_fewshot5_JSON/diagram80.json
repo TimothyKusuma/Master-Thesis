@@ -1,0 +1,34 @@
+{
+    "constructs": [
+        {
+            "name": "Pacing: - Earliness - Steadiness"
+        },
+        {
+            "name": "Technology-Enabled Communication Awareness"
+        },
+        {
+            "name": "Task-Oriented Communication During Action Episodes"
+        },
+        {
+            "name": "Performance: - Effectiveness - Efficiency"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Pacing: - Earliness - Steadiness",
+            "target": "Technology-Enabled Communication Awareness",
+            "label": ""
+        },
+        {
+            "source": "Task-Oriented Communication During Action Episodes",
+            "target": "Technology-Enabled Communication Awareness",
+            "label": ""
+        },
+        {
+            "source": "Technology-Enabled Communication Awareness",
+            "target": "Performance: - Effectiveness - Efficiency",
+            "label": ""
+        }
+    ],
+    "texts": []
+}

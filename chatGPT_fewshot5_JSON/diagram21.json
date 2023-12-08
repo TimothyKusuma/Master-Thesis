@@ -1,0 +1,34 @@
+{
+  "constructs": [
+      {
+          "name": "Self-Congruity Perspectives"
+      },
+      {
+          "name": "Functional-Congruity Perspectives"
+      },
+      {
+          "name": "Attitude"
+      },
+      {
+          "name": "Behavioral Intention"
+      }
+  ],
+  "hypotheses": [
+      {
+          "source": "Self-Congruity Perspectives",
+          "target": "Attitude",
+          "label": ""
+      },
+      {
+          "source": "Functional-Congruity Perspectives",
+          "target": "Behavioral Intention",
+          "label": ""
+      },
+      {
+          "source": "Attitude",
+          "target": "Behavioral Intention",
+          "label": ""
+      }
+  ],
+  "texts": []
+}

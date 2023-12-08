@@ -1,0 +1,65 @@
+{
+    "constructs": [
+        {
+            "name": "Involvement in Virtual Community"
+        },
+        {
+            "name": "Trust between Members"
+        },
+        {
+            "name": "Trust for Vendors"
+        },
+        {
+            "name": "Perceived Benefits in Virtual Community"
+        },
+        {
+            "name": "Perceived Risks in Electronic Commerce"
+        },
+        {
+            "name": "Participation in Electronic Commerce"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Involvement in Virtual Community",
+            "target": "Trust between Members",
+            "label": "H1"
+        },
+        {
+            "source": "Involvement in Virtual Community",
+            "target": "Trust for Vendors",
+            "label": "H2"
+        },
+        {
+            "source": "Trust between Members",
+            "target": "Trust for Vendors",
+            "label": "H3"
+        },
+        {
+            "source": "Trust between Members",
+            "target": "Perceived Risks in Electronic Commerce",
+            "label": "H4A"
+        },
+        {
+            "source": "Trust for Vendors",
+            "target": "Perceived Risks in Electronic Commerce",
+            "label": "H4B"
+        },
+        {
+            "source": "Perceived Benefits in Virtual Community",
+            "target": "Participation in Electronic Commerce",
+            "label": "H5"
+        },
+        {
+            "source": "Involvement in Virtual Community",
+            "target": "Perceived Benefits in Virtual Community",
+            "label": "H6A, H6B, H6C"
+        },
+        {
+            "source": "Perceived Benefits in Virtual Community",
+            "target": "Participation in Electronic Commerce",
+            "label": "H7A, H7B, H7C"
+        }
+    ],
+    "texts": []
+}

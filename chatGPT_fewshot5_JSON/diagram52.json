@@ -1,0 +1,74 @@
+{
+    "constructs": [
+        {
+            "name": "Mobile Protection Settings Awareness"
+        },
+        {
+            "name": "Mobile Privacy Concern"
+        },
+        {
+            "name": "Prior Invasion Experience"
+        },
+        {
+            "name": "Trust of Mobile Platform"
+        },
+        {
+            "name": "Attitude towards Information Sharing"
+        },
+        {
+            "name": "Mobile Information Protection Intention"
+        },
+        {
+            "name": "Mobile Information Protection (Behavior)"
+        },
+        {
+            "name": "Mobile Privacy Protection Self-Efficacy"
+        },
+        {
+            "name": "TPB"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Mobile Protection Settings Awareness",
+            "target": "Mobile Privacy Concern",
+            "label": "H7"
+        },
+        {
+            "source": "Prior Invasion Experience",
+            "target": "Mobile Privacy Concern",
+            "label": "H8"
+        },
+        {
+            "source": "Trust of Mobile Platform",
+            "target": "Mobile Privacy Concern",
+            "label": "H6"
+        },
+        {
+            "source": "Trust of Mobile Platform",
+            "target": "Attitude towards Information Sharing",
+            "label": "H5"
+        },
+        {
+            "source": "Mobile Privacy Concern",
+            "target": "Attitude towards Information Sharing",
+            "label": "H4"
+        },
+        {
+            "source": "Attitude towards Information Sharing",
+            "target": "Mobile Information Protection Intention",
+            "label": "H2"
+        },
+        {
+            "source": "Mobile Information Protection Intention",
+            "target": "Mobile Information Protection (Behavior)",
+            "label": "H1"
+        },
+        {
+            "source": "Mobile Privacy Protection Self-Efficacy",
+            "target": "Mobile Information Protection Intention",
+            "label": "H3"
+        }
+    ],
+    "texts": []
+}

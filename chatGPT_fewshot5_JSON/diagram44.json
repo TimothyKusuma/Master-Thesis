@@ -1,0 +1,60 @@
+{
+    "constructs": [
+        {
+            "name": "External Variables"
+        },
+        {
+            "name": "Perceived Usefulness"
+        },
+        {
+            "name": "Perceived Ease-of-use"
+        },
+        {
+            "name": "Attitude"
+        },
+        {
+            "name": "Intention to Use"
+        },
+        {
+            "name": "Actual Use"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "External Variables",
+            "target": "Perceived Usefulness",
+            "label": ""
+        },
+        {
+            "source": "External Variables",
+            "target": "Perceived Ease-of-use",
+            "label": ""
+        },
+        {
+            "source": "Perceived Ease-of-use",
+            "target": "Perceived Usefulness",
+            "label": ""
+        },
+        {
+            "source": "Perceived Usefulness",
+            "target": "Attitude",
+            "label": ""
+        },
+        {
+            "source": "Perceived Ease-of-use",
+            "target": "Attitude",
+            "label": ""
+        },
+        {
+            "source": "Attitude",
+            "target": "Intention to Use",
+            "label": ""
+        },
+        {
+            "source": "Intention to Use",
+            "target": "Actual Use",
+            "label": ""
+        }
+    ],
+    "texts": []
+}

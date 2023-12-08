@@ -1,0 +1,67 @@
+{
+    "constructs": [
+        {
+            "name": "Tool"
+        },
+        {
+            "name": "Time Pressure"
+        },
+        {
+            "name": "Tool x Time Pressure Interaction"
+        },
+        {
+            "name": "Non-Task-Focused Discussion"
+        },
+        {
+            "name": "Decision Quality"
+        },
+        {
+            "name": "Perceived Effectiveness"
+        },
+        {
+            "name": "Enjoyment"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Tool",
+            "target": "Non-Task-Focused Discussion",
+            "label": "0.540*"
+        },
+        {
+            "source": "Time Pressure",
+            "target": "Non-Task-Focused Discussion",
+            "label": "-0.119"
+        },
+        {
+            "source": "Time Pressure",
+            "target": "Non-Task-Focused Discussion",
+            "label": "H1, H3 -0.576*"
+        },
+        {
+            "source": "Tool x Time Pressure Interaction",
+            "target": "Non-Task-Focused Discussion",
+            "label": ""
+        },
+        {
+            "source": "Non-Task-Focused Discussion",
+            "target": "Decision Quality",
+            "label": "H2a -0.328*"
+        },
+        {
+            "source": "Non-Task-Focused Discussion",
+            "target": "Perceived Effectiveness",
+            "label": "H2b 0.199"
+        },
+        {
+            "source": "Non-Task-Focused Discussion",
+            "target": "Enjoyment",
+            "label": "H2c 0.480**"
+        }
+    ],
+    "texts": [
+        "*p < .05",
+        "**p < .01",
+        "***p < .001"
+    ]
+}

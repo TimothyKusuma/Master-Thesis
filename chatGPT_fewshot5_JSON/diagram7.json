@@ -1,0 +1,44 @@
+{
+    "constructs": [
+        {
+            "name": "Specialization benefits"
+        },
+        {
+            "name": "Market discipline benefits"
+        },
+        {
+            "name": "Flexibility benefits"
+        },
+        {
+            "name": "Cost savings"
+        },
+        {
+            "name": "Satisfaction of Organization with IT Outsourcing"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "Specialization benefits",
+            "target": "Satisfaction of Organization with IT Outsourcing",
+            "label": "0.14ns"
+        },
+        {
+            "source": "Market discipline benefits",
+            "target": "Satisfaction of Organization with IT Outsourcing",
+            "label": "0.50**"
+        },
+        {
+            "source": "Flexibility benefits",
+            "target": "Satisfaction of Organization with IT Outsourcing",
+            "label": "-0.07ns"
+        },
+        {
+            "source": "Cost savings",
+            "target": "Satisfaction of Organization with IT Outsourcing",
+            "label": "0.16+"
+        }
+    ],
+    "texts": [
+        "Significance: **p < 0.01, *p < 0.10, nsnot significant"
+    ]
+}

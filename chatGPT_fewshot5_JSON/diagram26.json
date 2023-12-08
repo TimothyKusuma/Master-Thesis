@@ -1,0 +1,98 @@
+{
+    "constructs": [
+        {
+            "name": "E-Business Value"
+        },
+        {
+            "name": "Impact on Commerce"
+        },
+        {
+            "name": "Sales increased"
+        },
+        {
+            "name": "Sales area widened"
+        },
+        {
+            "name": "Customer service improved"
+        },
+        {
+            "name": "International sales increased"
+        },
+        {
+            "name": "Impact on Internal Efficiency"
+        },
+        {
+            "name": "Internal processes more efficient"
+        },
+        {
+            "name": "Staff productivity increased"
+        },
+        {
+            "name": "Impact on Coordination"
+        },
+        {
+            "name": "Transaction costs with business partners decreased"
+        },
+        {
+            "name": "Coordination with business partners or suppliers improved"
+        }
+    ],
+    "hypotheses": [
+        {
+            "source": "E-Business Value",
+            "target": "Impact on Commerce",
+            "label": ""
+        },
+        {
+            "source": "Impact on Commerce",
+            "target": "Sales increased",
+            "label": ""
+        },
+        {
+            "source": "Impact on Commerce",
+            "target": "Sales area widened",
+            "label": ""
+        },
+        {
+            "source": "Impact on Commerce",
+            "target": "Customer service improved",
+            "label": ""
+        },
+        {
+            "source": "Impact on Commerce",
+            "target": "International sales increased",
+            "label": ""
+        },
+        {
+            "source": "E-Business Value",
+            "target": "Impact on Internal Efficiency",
+            "label": ""
+        },
+        {
+            "source": "Impact on Internal Efficiency",
+            "target": "Internal processes more efficient",
+            "label": ""
+        },
+        {
+            "source": "Impact on Internal Efficiency",
+            "target": "Staff productivity increased",
+            "label": ""
+        },
+        {
+            "source": "E-Business Value",
+            "target": "Impact on Coordination",
+            "label": ""
+        },
+        {
+            "source": "Impact on Coordination",
+            "target": "Transaction costs with business partners decreased",
+            "label": ""
+        },
+        {
+            "source": "Impact on Coordination",
+            "target": "Coordination with business partners or suppliers improved",
+            "label": ""
+        }
+    ],
+    "texts": []
+}
